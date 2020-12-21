@@ -1,6 +1,6 @@
 # 500-2021
 
-This repository holds many materials unique to the 2021 version of the 500 course (PQHS 500 or CRSP 500) given by Professor Thomas E. Love at Case Western Reserve University.
+This repository holds materials unique to the 2021 version of the 500 course (PQHS 500 or CRSP 500) given by Professor Thomas E. Love at Case Western Reserve University.
 
 The main web page for the course in Spring 2021 is https://thomaselove.github.io/500/.
 
