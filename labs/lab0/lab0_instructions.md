@@ -181,8 +181,25 @@ describe(lab0) # from Hmisc package
         of being treated, and the linear component of the logistic
         regression model (i.e. the logit of the probability of being
         treated.)
+2.  Next, summarize the resulting probabilities across the untreated and
+    treated patients in an appropriate and attractive manner.
+    -   Raw R code is rarely attractive on its face - build something
+        brief, effective and appropriate for a presentation.  
+    -   Of course, we’d expect that the average probability of being
+        treated will be higher in the patients who are actually treated.
+        Verify that this is the case, in a short **numerical and
+        graphical** summary of your findings.
+3.  How much overlap is there between the fitted probabilities of the
+    treated patients and the fitted probabilities of the untreated
+    patients?
+    -   A **graph** of this overlap (perhaps a boxplot, but a better
+        option would be a dot chart or density plot of some sort;
+        creativity is welcome here) is crucial, supplemented by a short
+        written description of your findings.
 
-As a hint, partial R code you might use to do this work follows…
+## A Hint for Task 1
+
+Partial R code you might use to do this work follows…
 
 ``` r
 m1 <- glm(treatment=="Treated" ~ 
@@ -194,19 +211,3 @@ lab0$prob <- m1$fitted.values
 
 lab0 # note new columns
 ```
-
-1.  Next, summarize the resulting probabilities across the untreated and
-    treated patients in an appropriate and attractive manner.
-    -   Raw R code is rarely attractive on its face - build something
-        brief, effective and appropriate for a presentation.  
-    -   Of course, we’d expect that the average probability of being
-        treated will be higher in the patients who are actually treated.
-        Verify that this is the case, in a short **numerical and
-        graphical** summary of your findings.
-2.  How much overlap is there between the fitted probabilities of the
-    treated patients and the fitted probabilities of the untreated
-    patients?
-    -   A **graph** of this overlap (perhaps a boxplot, but a better
-        option would be a dot chart or density plot of some sort;
-        creativity is welcome here) is crucial, supplemented by a short
-        written description of your findings.
