@@ -2,7 +2,7 @@
 
 ## Instructions
 
-[Instructions for Lab 3](https://github.com/THOMASELOVE/500-2021/blob/master/labs/lab3/lab3_instructions.md) will appear soon.
+[Instructions for Lab 3](https://github.com/THOMASELOVE/500-2021/blob/master/labs/lab3/lab3_instructions.md) are now available.
 
 - The instructions provide links to the data, and to all other necessary materials.
 - The deadline for submission is provided on [the Course Calendar](https://thomaselove.github.io/500/calendar.html).
