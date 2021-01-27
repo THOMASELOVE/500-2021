@@ -2,20 +2,20 @@
 
 ## Contents of this Page
 
-- [Submission Specifications](https://github.com/THOMASELOVE/2020-500/blob/master/project/01_proposal/README.md#submission-specifications)
-- [What should the proposal look like?](https://github.com/THOMASELOVE/2020-500/tree/master/project/01_proposal#what-should-the-proposal-look-like)
-    - [Overview (Title, Investigators, 8 key sections)](https://github.com/THOMASELOVE/2020-500/tree/master/project/01_proposal#overview-title-investigators-8-key-sections)
-    - [Detailed Instructions for each section of the proposal](https://github.com/THOMASELOVE/2020-500/tree/master/project/01_proposal#detailed-instructions-for-each-section-of-the-proposal)
-- [How does Dr. Love evaluate these Proposals?](https://github.com/THOMASELOVE/2020-500/tree/master/project/01_proposal#how-does-dr-love-evaluate-these-proposals)
-    - [Spreadsheet of Key Proposal Elements](https://github.com/THOMASELOVE/2020-500/tree/master/project/01_proposal#spreadsheet-of-key-proposal-elements)
-- [Frequently Asked Questions about the Proposal](https://github.com/THOMASELOVE/2020-500/tree/master/project/01_proposal#frequently-asked-questions-about-the-proposal)
-- [If you need ideas for a project in 500...](https://github.com/THOMASELOVE/2020-500/tree/master/project/01_proposal#if-you-need-ideas-for-a-project-in-500)
+- [Submission Specifications](https://github.com/THOMASELOVE/500-2021/blob/master/project/01_proposal.md#submission-specifications)
+- [What should the proposal look like?](https://github.com/THOMASELOVE/500-2021/blob/master/project/01_proposal.md#what-should-the-proposal-look-like)
+    - [Overview (Title, Investigators, 8 key sections)](https://github.com/THOMASELOVE/500-2021/blob/master/project/01_proposal.md#overview-title-investigators-8-key-sections)
+    - [Detailed Instructions for each section of the proposal](https://github.com/THOMASELOVE/500-2021/blob/master/project/01_proposal.md#detailed-instructions-for-each-section-of-the-proposal)
+- [How does Dr. Love evaluate these Proposals?](https://github.com/THOMASELOVE/500-2021/blob/master/project/01_proposal.md#how-does-dr-love-evaluate-these-proposals)
+    - [Spreadsheet of Key Proposal Elements](https://github.com/THOMASELOVE/500-2021/blob/master/project/01_proposal.md#spreadsheet-of-key-proposal-elements)
+- [Frequently Asked Questions about the Proposal](https://github.com/THOMASELOVE/500-2021/blob/master/project/01_proposal.md#frequently-asked-questions-about-the-proposal)
+- [If you need ideas for a project in 500...](https://github.com/THOMASELOVE/500-2021/blob/master/project/01_proposal.md#if-you-need-ideas-for-a-project-in-500)
 
 **ASK QUESTIONS EARLY. It's always easier to make adjustments when time pressure isn't a major issue.**
 
 ## Submission Specifications
 
-The Proposal is submitted via [Canvas](https://canvas.case.edu/) in two versions, first an *initial draft* and then a *final proposal*. The deadlines for both the initial draft and the final version are specified on the [Course Calendar](https://github.com/THOMASELOVE/2020-500/blob/master/calendar.md). There is no substantial difference between the two versions, except that I am hopeful that you will have a final version of your data set the second time around, whereas in the first draft, you can get by with some uncertainty on some issues related to your data.
+The Proposal is submitted via [Canvas](https://canvas.case.edu/) in two versions, first an *initial draft* and then a *final proposal*. The deadlines for both the initial draft and the final version are specified on the [Course Calendar](https://thomaselove.github.io/500/calendar.html). There is no substantial difference between the two versions, except that I am hopeful that you will have a final version of your data set the second time around, whereas in the first draft, you can get by with some uncertainty on some issues related to your data.
 
 ## What should the proposal look like? 
 
