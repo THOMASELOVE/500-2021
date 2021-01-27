@@ -19,20 +19,16 @@ There is more to a statistical application than the analysis of a canned data se
 
 I want you to establish relevant and interesting research questions related to a problem of interest, procure data to help answer the questions and pose others, and communicate your results to an audience of your peers. You will be responsible for the following elements of a project. 
 
-1. The [Project Proposal](https://github.com/THOMASELOVE/500-2021/tree/master/project/01_proposal) for which you will submit an initial draft for my review, and then a final version with more details, according to the deadlines in the [Course Calendar](https://github.com/THOMASELOVE/2020-500/blob/master/calendar.md). 
+1. The [Project Proposal](https://github.com/THOMASELOVE/500-2021/blob/master/project/01_proposal.md) for which you will submit an initial draft for my review, and then a final version with more details, according to the deadlines in the [Course Calendar](https://thomaselove.github.io/500/). 
 
-- Once you have your data, you will probably want to look at the [Tips for Analyzing your Project](https://github.com/THOMASELOVE/2020-500/blob/master/project/analytic_tips.md) I've gathered.
+- Once you have your data, you will probably want to look at the [Tips for Analyzing your Project](https://github.com/THOMASELOVE/500-2021/blob/master/project/analytic_tips.md) we've gathered.
 
-2. The [Project Update](https://github.com/THOMASELOVE/2020-500/tree/master/project/02_update) is the next step. Here you will be revising your proposal, verifying that you have the data and are proceeding appropriately. 
+2. The [Project Update](https://github.com/THOMASELOVE/500-2021/blob/master/project/02_update.md) is the next step. Here you will be revising your proposal, verifying that you have the data and are proceeding appropriately. 
 
-3. The [Final Materials](https://github.com/THOMASELOVE/2020-500/tree/master/project/03_final_materials). This includes:
-    - An abstract (which you will submit in two versions: first, prior to your presentation and then a revised version after your presentation.)
-    - Your presentation slides (again, you will submit both a pre-presentation version and revised final version)
+3. The [Final Materials](https://github.com/THOMASELOVE/500-2021/blob/master/project/03_final_materials.md). This includes:
+    - An abstract
+    - Your presentation slides
     - A data set, R Markdown file and HTML results document that shows all of your work to obtain the results in your slides, all of which are submitted after your presentation.
     - A discussion (as part of the HTML results document) of your results, also submitted after your presentation.
-
-## Additional Advice
-
-Here is a set of analytic tips that have proven helpful in the past. We may wind up adding to this as the semester progresses.
 
 
