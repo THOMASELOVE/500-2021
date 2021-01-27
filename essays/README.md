@@ -2,12 +2,17 @@
 
 This page provides prompts for the reactions you'll provide to Paul Rosenbaum's *Observation and Experiment* text through the semester. 
 
-There are prompts here for Chapters 7-12, but not all of them will necessarily be assigned this year. For each of the prompts that **are assigned** by Dr. Love you will need to produce an essay of **175-250 words**.
+There are prompts here for Chapters 7-12, but Dr. Love reserves the right to revise the schedule a bit. For each of the prompts that **are assigned** by Dr. Love you will need to produce an essay of **175-250 words**.
 
-- You should come to the class prepared to share your essay with a few of your colleagues in a Zoom breakout session.
 - Note that the first few prompts are between 100 and 111 words in length, so that in most cases a response of about double the length of the prompt should be your goal. These are not long essays.
-- Deadlines for all assignments in 500 (including the Essays) are found in [the Course Calendar](https://thomaselove.github.io/500/calendar.html).
-- All Essays should be submitted [through Canvas](https://canvas.case.edu/).
+
+### Turning in your essays
+
+Each of these essays is due on the day that the relevant chapter is to be discussed in class according to [the Course Calendar](https://thomaselove.github.io/500/calendar.html).
+
+- Please submit your essay to our shared Google Drive by 8 AM on the day we will discuss the chapter, so that all of your colleagues can see it.
+- You should come to the class prepared to share your essay with a few of your colleagues in a Zoom breakout session, and with the expectation that anyone in the class might read it and comment.
+- An appropriate file name for your submission would be `YOURNAME-essay7.doc` for the Chapter 7 essay, for instance. Acceptable formats for this essay include PDF, word documents or Google Docs.
 - For help with anything involved in the class, [contact us](https://thomaselove.github.io/500/contact.html).
 
 ## Prompt for Chapter 7 (Elaborate Theories)
