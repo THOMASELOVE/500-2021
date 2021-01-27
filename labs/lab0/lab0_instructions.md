@@ -1,53 +1,61 @@
-500 Lab 0 (An Example)
+500 Lab 0 (An Example) with Instructions
 ================
 
 Last Updated: 2021-01-26
+
+## What Is This?
+
+This is an example, which I’m calling Lab 0.
+
+In earlier versions of this course, this was an actual assignment, as
+described below. For the Spring 2021 course, I’ve decided to simply
+provide it as a worked example. Looking it over should be helpful in
+doing your work this semester, especially for those of you who aren’t
+simultaneously taking another course with me.
+
+I am making the following items available to you, in addition to these
+instructions:
+
+-   The `lab0` data set called `lab0.csv` (which is a comma-separated
+    .csv file suitable for reading into R.) You’ll find this at [our
+    500-data web site](https://github.com/THOMASELOVE/500-data).
+-   An Answer Sketch for Lab 0, including both the [R Markdown
+    file](https://github.com/THOMASELOVE/500-2021/blob/master/labs/lab0/lab0_sketch.Rmd)
+    I used to create the sketch and the resulting [PDF
+    file](https://github.com/THOMASELOVE/500-2021/blob/master/labs/lab0/lab0_sketch.pdf)
+    it generates.
+
+Your task for Lab 0 is to read over these materials, and see if they
+help you answer the questions that arise in generating your responses to
+your actual Lab assignments (Lab 1 - Lab 5) this semester.
+
+## Load R Packages
+
+To start, I’ll request that R sets its responses to be rendered without
+the default pair of hashtags, as follows.
 
 ``` r
 knitr::opts_chunk$set(comment = NA)
 ```
 
-## What Is This?
-
-In earlier versions of this course, I occasionally used a different
-first assignment, described below. I’ve decided to call in Lab 0, now.
-The purpose of it is to provide you with a worked example. Looking it
-over may be helpful in doing your work this semester, especially the
-first few homework assignments.
-
-In addition to the Lab 0 assignment (at the bottom of this page), I am
-also making the following items available to you:
-
--   The `lab0` data set called `lab0.csv` used in the assignment (as a
-    comma-separated .csv file suitable for reading into R.) You’ll find
-    this at [our 500-data web
-    site](https://github.com/THOMASELOVE/500-data).
--   An Answer Sketch for Lab 0, including both the \[R Markdown file\]
-    and resulting \[PDF file\] it generates.
-
-So, there’s nothing for you to do here, except read over the materials,
-and see if they help you answer the questions that arise in generating
-your responses to your actual Lab assignments this semester.
-
-## Load R Packages
+Next, I’ll load three R packages that will help me with these
+instructions.
 
 ``` r
 library(here)
 library(Hmisc)
-library(janitor)
-library(magrittr)
 library(tidyverse)
 ```
 
-# Old Instructions for Lab 0
+# Original Instructions for this work
 
-This assignment required students to analyze some data, and prepare a
-report. That report needed to be in the form of a Word or PDF file,
-along with a separate R script or (much better) R Markdown file which
-allows me to completely replicate the analysis. Note that the answer
-sketch for this document includes both the Markdown and PDF versions.
 Here are the instructions I gave to students for whom this was a
 required assignment.
+
+This assignment requires students to analyze some data, and prepare a
+report. That report should be in the form of a Word, PDF or HTML file,
+along with an R Markdown file which allows me to completely replicate
+the analysis.
 
 1.  The files you develop should be named `YOURNAME-500lab0.Rmd` and
     `YOURNAME-500lab0.html`, please.
