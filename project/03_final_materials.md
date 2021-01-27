@@ -2,10 +2,10 @@
 
 ## Overview
 
-Submit all project materials through [Canvas](https://canvas.case.edu/). All deadlines are specified in the [Course Calendar](https://github.com/THOMASELOVE/2020-500/blob/master/calendar.md). Your final project work involves three tasks:
+Submit all project materials through [Canvas](https://canvas.case.edu/). All deadlines are specified in the [Course Calendar](https://thomaselove.github.io/500/calendar.html). Your final project work involves three tasks:
 
-1. Submit your pre-presentation version of your Abstract, and of your Slides in time for your presentation. (This deadline depends on when you are actually giving your presentation.)
-2. Give your presentation in class, according to the schedule we will develop during the semester, and which will be linked on the [Course Calendar](https://github.com/THOMASELOVE/2020-500/blob/master/calendar.md).
+1. Submit your pre-presentation version of your Abstract, and of your Slides 24 hours prior to your presentation.
+2. Give your presentation in class, according to the schedule we will develop during the semester, and which will be linked on the [Course Calendar](https://thomaselove.github.io/500/calendar.html).
 3. After you've all given your presentations and received feedback, you will submit your complete set of final materials, including your revised abstract and slides, your data set, and an R Markdown file and HTML document generated from that R Markdown, which includes a **discussion**, as outlined below.
 
 The remainder of this document describes these pieces, and also provides some insight on how I'd like to see you put together your presentation, and how you will be evaluating the presentations.
@@ -25,7 +25,7 @@ The pre-presentation version of your Abstract should be complete. If you decide 
 
 ## The Presentation
 
-After all of the project proposals have been approved, we will settle on a schedule for the presentations and post that schedule on the [Course Calendar](https://github.com/THOMASELOVE/2020-500/blob/master/calendar.md). Your slides must be submitted in either PDF or Powerpoint format, along with your pre-presentation Abstract, according to the deadline in the [Course Calendar](https://github.com/THOMASELOVE/2020-500/blob/master/calendar.md) associated with your project presentation date.
+After all of the project proposals have been approved, we will settle on a schedule for the presentations and post that schedule on the [Course Calendar](https://thomaselove.github.io/500/calendar.html). Your slides must be submitted in either PDF or Powerpoint format, along with your pre-presentation Abstract, at least 24 hours prior to your schedule project presentation.
 
 Broadly, your slides will include an introduction which provides a foundation by motivating and clearly stating the research questions you studied, a main section which summarizes your pre-data collection beliefs, the key models and analytical results, and the critical findings of the study, and a conclusion, which provides insight into how your knowledge of the problem you studied has changed as a result of the project, as well as highlighting what you believe to be the key takeaways (both statistical and study-specific) for your audience. These sections should be keyed to slides, smoothing transitions, and forcing you to "tell us what you're going to tell us, tell us, then tell us what you told us."  
 
@@ -56,7 +56,7 @@ Here's how I might outline such a talk. Do not feel obligated to follow this out
 
 ### Evaluating the Project Presentations
 
-All students must attend all presentations (you will be providing both oral and written feedback to your colleagues). A sampling of the questions I have used in past evaluation sheets with this class follows.
+All presentations will be given over Zoom. All students must attend all presentations (you will be providing both oral and written feedback to your colleagues). A sampling of the questions I have used in past evaluation sheets with this class follows.
 
 - (Open Response) What was the most important thing you learned from this presentation?
 - (Open Response) What was the muddiest, most confusing part of this presentation?
