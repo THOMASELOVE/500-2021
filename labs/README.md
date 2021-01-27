@@ -1,7 +1,7 @@
 # Labs for 500 in Spring 2021
 
 - Deadlines for all assignments in 500 (including the Labs) are found in [the Course Calendar](https://thomaselove.github.io/500/calendar.html).
-- All Labs are submitted [through Canvas](https://canvas.case.edu/)
+- All Labs should be submitted [through Canvas](https://canvas.case.edu/).
 - For help on any Lab, contact us through `500-help at case dot edu` or attend TA office hours.
 
 ## Lab 0 - A Worked Example to get started
