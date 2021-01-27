@@ -10,5 +10,5 @@
 
 ## Post-Submission Materials
 
-The Answer Sketch and other materials will appear as appropriate.
+The Answer Sketch and other materials will appear in due time.
 
