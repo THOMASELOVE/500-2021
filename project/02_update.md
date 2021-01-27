@@ -2,7 +2,7 @@
 
 ## Submission
 
-The Project Update is to be submitted to [Canvas](https://canvas.case.edu/) by the new deadline (March 31) specified in the [Course Calendar](https://github.com/THOMASELOVE/2020-500/blob/master/calendar.md).
+The Project Update is to be submitted to [Canvas](https://canvas.case.edu/) by the deadline specified in the [Course Calendar](https://thomaselove.github.io/500/calendar.html).
 
 ## Details
 
