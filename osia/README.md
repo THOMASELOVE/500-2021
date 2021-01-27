@@ -6,7 +6,7 @@ This page houses information about **Observational Studies in Action** work for 
 
 During the semester, you will be responsible for presenting the methods and results of an observational study from the literature that uses propensity score methods. 
 
-- The first step is to identify a study and claim it. as described below. The deadline for submitting your claim on a study is provided in the [Course Calendar](https://github.com/THOMASELOVE/2020-500/blob/master/calendar.md). Dr. Love will then approve your study if it is appropriate, and if no one else has yet claimed it.
+- The first step is to identify a study and claim it. as described below. The deadline for submitting your claim on a study is provided in the [Course Calendar](https://thomaselove.github.io/500/calendar.html). Dr. Love will then approve your study if it is appropriate, and if no one else has yet claimed it.
 
 ## What makes an appropriate study?
 
@@ -15,7 +15,7 @@ An appropriate study will
 - use (or at least primarily use) propensity score methods we will discuss in class (hence the need for Dr. Love's pre-approval)
 - be a fully published manuscript, not a work in progress
 - be published since 2010 in a venue where a PDF file of the study itself and any appendix materials can be shared with the class (so journals that are available to all CWRU affiliates are preferable). Dr. Love encourages you to look for studies published after 2015.
-- **not** be one that you or your immediate supervisor have been involved in, and not be one that I have been involved in, in any capacity, and not be one that is included on our [Sources page](https://github.com/THOMASELOVE/2020-500/tree/master/sources).
+- **not** be one that you or your immediate supervisor have been involved in, and not be one that I have been involved in, in any capacity, and not be one that is included on our [Sources page](https://github.com/THOMASELOVE/500-2021/tree/master/sources).
 
 ## Claiming a Study
 
