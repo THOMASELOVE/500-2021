@@ -2,7 +2,7 @@
 
 - Deadlines for all assignments in 500 (including the Labs) are found in [the Course Calendar](https://thomaselove.github.io/500/calendar.html).
 - All Labs should be submitted [through Canvas](https://canvas.case.edu/).
-- For help on any Lab, contact us through `500-help at case dot edu` or attend TA office hours.
+- For help with anything involved in the class, [contact us](https://thomaselove.github.io/500/contact.html).
 
 ## Lab 0 - A Worked Example to get started
 
