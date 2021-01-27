@@ -3,7 +3,7 @@
 This page houses information about **Observational Studies in Action** work for the course.
 
 - For help with anything involved in the class, [contact us](https://thomaselove.github.io/500/contact.html).
-- Deadlines for 500 are provided in the [Course Calendar](https://thomaselove.github.io/500/calendar.html).
+- Deadlines for all assignments in 500 are provided in the [Course Calendar](https://thomaselove.github.io/500/calendar.html).
 
 ## The Assignment
 
