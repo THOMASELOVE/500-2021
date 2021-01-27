@@ -23,10 +23,11 @@ An appropriate study will
 
 ## Claiming a Study
 
-Everyone will present a different study. To submit a study for approval, send a PDF of the study itself along with any appendix materials to Dr. Love in an **email** entitled "OSIA proposal" and include a brief (100 words is sufficient, in the body of your email) description of why this particular study is of interest to you. Please be sure to specify that you meet all of the standards listed above.
+Everyone will present a different study. To submit a study for approval, send a PDF of the study itself along with any appendix materials to Dr. Love in an **email** entitled "OSIA proposal" and include a brief (100 words is sufficient, in the body of your email) description of why this particular study is of interest to you. Please be sure to specify that you meet all of the standards listed above. The deadline for submitting your claim is found on the [Course Calendar](https://thomaselove.github.io/500/calendar.html), but we hope you will submit much earlier.
 
 - If you select a study that is unsuitable, Dr. Love will let you know as soon as he can.
 - If you select an acceptable study and you are the first to "claim" it, it's yours. Once a study is claimed, Dr. Love [will post it on the claims page](https://github.com/THOMASELOVE/500-2021/tree/master/osia/claims). If you select a study that someone else has beaten you to, you will have to submit an alternative.
+- Once all students have successfully selected a study, Dr. Love will schedule the presentations into the OSIA days listed in the [Course Calendar](https://thomaselove.github.io/500/calendar.html).
 
 ## Your Presentation
 
@@ -47,13 +48,13 @@ For each OSIA study, a "second reviewer" will be assigned according to the date 
 
 ### for the Primary Reviewer
 
-For the study you have claimed, you will submit final versions of the slides for your class presentation (20 slides should be a reasonable maximum) to our **Shared Google Drive** by 3 PM on the day **before** your presentation. The file name should include your name.
+For the study you have claimed, you will submit final versions of the slides for your class presentation (20 slides should be a reasonable maximum) to our **Shared Google Drive** by 3 PM on the day **before** your presentation, as indicated on the [Course Calendar](https://thomaselove.github.io/500/calendar.html). The file name should include your name, perhaps with the form YOURNAME_OSIA_rev1. Powerpoint, PDF or Google Slides documents are fine - if you want to use some other approach to develop slides, please ensure that we'll be able to view them through Google Drive.
 
-- This will allow Dr. Love, the second reviewer of your article, and anyone else in the class to review your slides in advance.
+- This early submission will allow Dr. Love, the second reviewer of your article, and anyone else in the class to review your slides in advance, and will allow you to get a good night's sleep before your presentation.
 
 ### for the Second Reviewer
 
-For the study on which you serve as second reviewer, you will submit final versions of your 2-4 slides for your presentation to our **Shared Google Drive** by 8 AM on the day of your presentation. We expect you to have reviewed the slides prepared by the principal reviewer (which will be posted the day before) in preparing your materials.
+For the study on which you serve as second reviewer, you will submit final versions of your 2-4 slides for your presentation to our **Shared Google Drive** by 8 AM on the day of your presentation, as indicated on the [Course Calendar](https://thomaselove.github.io/500/calendar.html). We expect you to have reviewed the slides prepared by the principal reviewer (posted at 3 PM the day before) in preparing your materials.
 
 ## Audience Role
 
