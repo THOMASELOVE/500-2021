@@ -47,13 +47,13 @@ For each OSIA study, a "second reviewer" will be assigned according to the date 
 
 ### for the Primary Reviewer
 
-For the study you have claimed, you will submit final versions of the slides for your class presentation (20 slides should be a reasonable maximum) to our **Shared Google Drive** by 3 PM on the day before your presentation. The file name should include your name.
+For the study you have claimed, you will submit final versions of the slides for your class presentation (20 slides should be a reasonable maximum) to our **Shared Google Drive** by 3 PM on the day **before** your presentation. The file name should include your name.
 
 - This will allow Dr. Love, the second reviewer of your article, and anyone else in the class to review your slides in advance.
 
 ### for the Second Reviewer
 
-For the study on which you serve as second reviewer, you will submit final versions of your 2-4 slides for your presentation to our **Shared Google Drive** by 8 AN on the day of your presentation. We expect you to have reviewed the slides prepared by the principal reviewer (which will be posted the day before) in preparing your materials.
+For the study on which you serve as second reviewer, you will submit final versions of your 2-4 slides for your presentation to our **Shared Google Drive** by 8 AM on the day of your presentation. We expect you to have reviewed the slides prepared by the principal reviewer (which will be posted the day before) in preparing your materials.
 
 ## Audience Role
 
