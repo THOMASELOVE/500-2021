@@ -8,7 +8,7 @@
 
 Before you work on your first Lab, you may need some orientation to what we're looking for. To help, we've created a ["Lab 0"](https://github.com/THOMASELOVE/500-2021/tree/master/labs/lab0) which provides a complete worked example for an old assignment from this course. Some of the ideas explored [in Lab 0](https://github.com/THOMASELOVE/500-2021/tree/master/labs/lab0) will be very helpful for later Labs, and [Lab 0](https://github.com/THOMASELOVE/500-2021/tree/master/labs/lab0) includes a complete answer sketch so you can try to replicate our work.
 
-## Labs 1-5 (The Actual Assignments for Spring 2021)
+## Labs 1-5
 
 Here are links to the lab assignments for Spring 2021.
 
