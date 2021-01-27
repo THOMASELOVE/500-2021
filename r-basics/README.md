@@ -16,4 +16,4 @@ Sections of the document include
 
 There's a lot of stuff here, and I don't expect you to devour it, but I do hope it serves as a useful guide for remembering / learning how to do some of the "basics" that will be relevant in our course.
 
-If you find things that are confusing, please ask the TAs or Dr. Love.
+If you find things that are confusing, please [contact us and get some help](https://thomaselove.github.io/500/contact.html).
