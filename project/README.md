@@ -26,9 +26,6 @@ I want you to establish relevant and interesting research questions related to a
 2. The [Project Update](https://github.com/THOMASELOVE/500-2021/blob/master/project/02_update.md) is the next step. Here you will be revising your proposal, verifying that you have the data and are proceeding appropriately. 
 
 3. The [Final Materials](https://github.com/THOMASELOVE/500-2021/blob/master/project/03_final_materials.md). This includes:
-    - An abstract
-    - Your presentation slides
-    - A data set, R Markdown file and HTML results document that shows all of your work to obtain the results in your slides, all of which are submitted after your presentation.
-    - A discussion (as part of the HTML results document) of your results, also submitted after your presentation.
-
+    - 24 hours prior to your presentation, you will submit an abstract and your presentation slides to [Canvas](https://canvas.case.edu/).
+    - After all presentations are complete, at the final deadline specified on the [Calendar](https://thomaselove.github.io/500/) you will submit your Abstract and Slides again (with any revisions you decide to make in light of the feedback you receive). In addition, you will also submit a data set, R Markdown file and HTML results document (including a discussion) that shows all of your work to obtain the results in your slides.
 
