@@ -2,11 +2,15 @@
 
 This page houses information about **Observational Studies in Action** work for the course.
 
+- For help with anything involved in the class, [contact us](https://thomaselove.github.io/500/contact.html).
+- Deadlines for 500 are provided in the [Course Calendar](https://thomaselove.github.io/500/calendar.html).
+
 ## The Assignment
 
-During the semester, you will be responsible for presenting the methods and results of an observational study from the literature that uses propensity score methods. 
+1. You will be responsible for presenting the methods and results of an observational study from the literature that uses propensity score methods.
+2. You will also serve as "second reviewer" from one of the studies selected by your colleagues.
 
-- The first step is to identify a study and claim it. as described below. The deadline for submitting your claim on a study is provided in the [Course Calendar](https://thomaselove.github.io/500/calendar.html). Dr. Love will then approve your study if it is appropriate, and if no one else has yet claimed it.
+- The first step is to identify a study and claim it, as described below. The deadline for submitting your claim on a study is provided in the [Course Calendar](https://thomaselove.github.io/500/calendar.html). Dr. Love will then approve your study if it is appropriate, and if no one else has yet claimed it.
 
 ## What makes an appropriate study?
 
@@ -22,23 +26,36 @@ An appropriate study will
 Everyone will present a different study. To submit a study for approval, send a PDF of the study itself along with any appendix materials to Dr. Love in an **email** entitled "OSIA proposal" and include a brief (100 words is sufficient, in the body of your email) description of why this particular study is of interest to you. Please be sure to specify that you meet all of the standards listed above.
 
 - If you select a study that is unsuitable, Dr. Love will let you know as soon as he can.
-- If you select an acceptable study and you are the first to "claim" it, it's yours. Once a study is claimed, Dr. Love [will post it on the claims page](https://github.com/THOMASELOVE/2020-500/tree/master/osia/claims). If you select a study that someone else has beaten you to, you will have to submit an alternative.
+- If you select an acceptable study and you are the first to "claim" it, it's yours. Once a study is claimed, Dr. Love [will post it on the claims page](https://github.com/THOMASELOVE/500-2021/tree/master/osia/claims). If you select a study that someone else has beaten you to, you will have to submit an alternative.
 
 ## Your Presentation
 
-You will give a presentation (length to be determined, but probably 15-20 minutes) of the background, methods and key results of the study. 
+You will give a 15-minute presentation (via Zoom) to the rest of the class summarizing the background, methods and key results of the study. 
 
 - I suggest you plan on spending about half of the time discussing the statistical and design considerations.
-- I strongly encourage you to provide useful graphs to summarize key findings.
+- I strongly encourage you to provide useful graphs (created by you or by the original authors) to summarize key findings.
 
-I encourage you to think hard about what might be most useful to us in this context. You will also submit your slides from your presentation to me, in advance, via Canvas, by 3 PM the day before your presentation. At that same time, you will email your slides to the second reviewer of your article.
+I encourage you to think hard about what might be most useful to us in this context. 
 
 ## Second Reviewer
 
-For each OSIA study, a "second reviewer" will be assigned according to the date on the [Course Calendar](https://github.com/THOMASELOVE/2020-500/blob/master/calendar.md) once all studies are established (so that everyone does this job once.) 
-- The "second reviewer" for each study will provide 3-5 minutes of commentary on the study after the main reviewer's presentation. You are expected to present 2-4 slides as second reviewer. Your slides need to be submitted to Canvas by 8 PM the night before your presentation, so that you will have at least 5 hours to review the plans of the first reader.
+For each OSIA study, a "second reviewer" will be assigned according to the date on the [Course Calendar](https://thomaselove.github.io/500/calendar.html) once all studies are established (so that everyone does this job once.) 
+
+- The "second reviewer" for each study will provide 3-5 minutes of commentary on the study after the main reviewer's presentation. You are expected to present 2-4 slides as second reviewer. 
+
+## Presentation Submission Details 
+
+### for the Primary Reviewer
+
+For the study you have claimed, you will submit final versions of the slides for your class presentation (20 slides should be a reasonable maximum) to our **Shared Google Drive** by 3 PM on the day before your presentation. The file name should include your name.
+
+- This will allow Dr. Love, the second reviewer of your article, and anyone else in the class to review your slides in advance.
+
+### for the Second Reviewer
+
+For the study on which you serve as second reviewer, you will submit final versions of your 2-4 slides for your presentation to our **Shared Google Drive** by 8 AN on the day of your presentation. We expect you to have reviewed the slides prepared by the principal reviewer (which will be posted the day before) in preparing your materials.
 
 ## Audience Role
 
-For each OSIA study, everyone will read the abstracts in advance, so that we can have some understanding of what's involved and contribute to the discussion. The papers will be [posted to the Claims page](https://github.com/THOMASELOVE/2020-500/tree/master/osia/claims) as they are approved by Dr. Love.
+For each OSIA study, everyone will read the abstracts in advance, so that we can have some understanding of what's involved and contribute to the discussion. The papers will be [posted to the Claims page](https://github.com/THOMASELOVE/500-2021/tree/master/osia/claims) as they are approved by Dr. Love, and the Shared Google Drive will eventually contain all of the presentations.
 
