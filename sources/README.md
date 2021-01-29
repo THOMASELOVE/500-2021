@@ -8,6 +8,14 @@ As the semester progresses, we are going to read a book together that you'll nee
 
 - Paul Rosenbaum's *Observation and Experiment: An Introduction to Causal Inference*, published in 2017 by Harvard University Press. The ISBN-13 number is 978-0674975576. The book is available electronically or in hardcover from Amazon and other retailers. Details on when we'll read each chapter are in the [Course Calendar](https://thomaselove.github.io/500/calendar.html). 
 
+## Another Important Text
+
+- [Hernán Miguel A, Robins Jamie M (2020). Causal Inference: What If. Boca Raton: Chapman & Hall/CRC](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/) available electronically at that link.
+
+From Miguel's description at that link: 
+
+> Jamie Robins and I have written a book that provides a cohesive presentation of concepts of, and methods for, causal inference. Much of this material is currently scattered across journals in several disciplines or confined to technical articles. We expect that the book will be of interest to anyone interested in causal inference, e.g., epidemiologists, statisticians, psychologists, economists, sociologists, political scientists, computer scientists… The book is divided in 3 parts of increasing difficulty: causal inference without models, causal inference with models, and causal inference from complex longitudinal data.
+
 ## Other References and Resources
 
 Many additional sources will be presented and referenced in class, and those are gathered below, along with other references that I've used in the past. I expect you will read some, but not all of these items, depending on what is most useful to you. The PDF files [are available here](https://github.com/THOMASELOVE/500-2021/tree/master/sources/articles). Some are password-protected. The password will be revealed at the first class.
