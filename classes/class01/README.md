@@ -4,7 +4,7 @@
 :-----------: | :--------------: | :----------: | :---------: | :-------------: | :-----------: 
 for everything | for deadlines | expectations | zoom information | for downloads | email `500-help` at `case dot edu`
 
-This is a placeholder for Class 01 Materials.
+## Class 01 Materials will appear here as they become available.
 
 
 ## Logistics and Reminders
