@@ -7,7 +7,9 @@ for everything | for deadlines | expectations | zoom information | for downloads
 This is a placeholder for Class 01 Materials.
 
 
-## Questions (with Answers) from the "Welcome to 500" Survey
+## Questions (with Answers) from the "[Welcome to 500 Survey](http://bit.ly/500-2021-welcome-survey)"
+
+If you haven't taken the survey already, please do so today.
 
 ### How much overlap of course material is there between 432 and 500? 
 
