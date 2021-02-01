@@ -48,5 +48,7 @@ If you haven't taken the survey already, please [do so today](http://bit.ly/500-
 
 ## One Last Thing
 
+Need help? Contact us at **500-help** at **case dot edu** with any questions. We want to hear from you!
+
 ![](https://github.com/THOMASELOVE/500-2021/blob/master/classes/class01/figures/phd_staring.PNG)
 
