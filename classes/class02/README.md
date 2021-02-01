@@ -23,6 +23,7 @@ Articles posted on our [Sources page](https://github.com/THOMASELOVE/500-2021/bl
 
 Other articles I refer to in the slides, if you're interested in tracking down further details...
 
+- Barrett-Connor E Estrogen and estrogen-progestogen replacement: therapy and cardiovascular diseases. *Am J Med* 1993 Nov 30;95(5A):40S-43S. doi: 10.1016/0002-9343(93)90381-x. [PubMed](https://pubmed.ncbi.nlm.nih.gov/8256794/)
 - Burkman RT Collins JA Greene RA Current perspectives on benefits and risks of hormone replacement therapy. *Amer J of Obstetrics and Gynecology* 2001 185 (2): S13-S23. [PubMed](https://pubmed.ncbi.nlm.nih.gov/11521117/)
 - Col Nananda F Eckman MH Karas RH et al. Patient-specific decisions about hormone replacement therapy in postmenopausal women. *JAMA* 1997 Apr 9;277(14):1140-7. [PubMed](https://pubmed.ncbi.nlm.nih.gov/9087469/)
 - Craig Michael C Maki Pauline M Murphy Declan G M The Women's Health Initiative Memory Study: findings and implications for treatment. *Lancet Neurol* 2005 Mar; 4(3): 190-4. doi: 10.1016/S1474-4422(05)01016-1 [PubMed](https://pubmed.ncbi.nlm.nih.gov/15721829/)
