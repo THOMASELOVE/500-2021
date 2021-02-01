@@ -41,3 +41,7 @@ If you haven't taken the survey already, please [do so today](http://bit.ly/500-
 2. Will there be an in-person portion of the class at the end of the semester?
     - I had hoped that perhaps we could have the project presentation sessions in person. That's not going to happen now, since not everyone will be vaccinated by the end of the class.
 
+## One Last Thing
+
+![](https://github.com/THOMASELOVE/500-2021/blob/master/classes/class01/figures/phd_staring.PNG)
+
