@@ -21,7 +21,7 @@ Articles posted on our [Sources page](https://github.com/THOMASELOVE/500-2021/bl
 - Riederer Emily 2021 [Causal design patterns for data analysts](https://emilyriederer.netlify.app/post/causal-design-patterns/) blog published 2021-01-31.
 - Women's Health Initiative Writing Group 2002 [Risks and Benefits of Estrogen Plus Progestin in Healthy Postmenopausal Women: Principal Results From the Women's Health Initiative Randomized Controlled Trial](https://jamanetwork.com/journals/jama/fullarticle/195120) *JAMA* 2002; 288(3):321-333. doi:10.1001/jama.288.3.321
 
-Other Articles, if you're interested in tracking down further details...
+Other articles I refer to in the slides, if you're interested in tracking down further details...
 
 - Burkman RT Collins JA Greene RA Current perspectives on benefits and risks of hormone replacement therapy. *Amer J of Obstetrics and Gynecology* 2001 185 (2): S13-S23. [PubMed](https://pubmed.ncbi.nlm.nih.gov/11521117/)
 - Col Nananda F Eckman MH Karas RH et al. Patient-specific decisions about hormone replacement therapy in postmenopausal women. *JAMA* 1997 Apr 9;277(14):1140-7. [PubMed](https://pubmed.ncbi.nlm.nih.gov/9087469/)
