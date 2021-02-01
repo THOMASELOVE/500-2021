@@ -4,8 +4,15 @@
 :-----------: | :--------------: | :----------: | :---------: | :-------------: | :-----------: | :-----------: 
 for everything | deadlines | expectations | zoom info, etc. | downloads | to read | `500-help` at `case dot edu`
 
-## Class 01 Materials will appear here as they become available.
+## Welcome to 500!
 
+Your instructor is Thomas E. Love, Ph.D. and we are fortunate to have [Wyatt P. Bensken](https://wyattbensken.com/) as our teaching assistant. Learn more about us in the [Syllabus](https://thomaselove.github.io/500-2021-syllabus/).
+
+## Materials for Today's Class
+
+- Today's Slides will be [available in PDF](https://github.com/THOMASELOVE/500-2021/blob/master/classes/class01/500_2021_slides01.pdf), as well as in [R Markdown](https://github.com/THOMASELOVE/500-2021/blob/master/classes/class01/500_2021_slides01.Rmd).
+- All 500 classes are video-recorded, and the recordings will be archived in the Zoom section of [Canvas](https://canvas.case.edu).
+- We expect you to attend all classes live via Zoom, to facilitate our discussions (which will be a bigger part of the second half of the course.)
 
 ## Logistics and Reminders
 
