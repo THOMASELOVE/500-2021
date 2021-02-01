@@ -18,9 +18,9 @@ for everything | deadlines | expectations | zoom info, etc. | downloads | to rea
 
 ## Logistics and Reminders
 
-1. You should have received an email from me in the last 3-4 days with the subject heading "**PQHS / CRSP 500: Start of the Semester - Welcome!**" 
+1. You should have received an email with the subject heading "**PQHS / CRSP 500: Start of the Semester - Welcome!**" 
     - If you have this email, please attend to what it asks you to do. 
-    - If you don't have this email, please let me know that via email to Thomas dot Love at case dot edu now.
+    - If you don't have this email, please let us know that now.
 2. If you haven't taken the Welcome to 500 survey already, please [do so today](http://bit.ly/500-2021-welcome-survey).
     - You must log into Google through your CWRU account to take the survey.
 3. [Lab 01](https://github.com/THOMASELOVE/500-2021/blob/master/labs/README.md) is due next Thursday 2021-02-11 at 8 AM.
