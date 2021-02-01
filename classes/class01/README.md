@@ -13,8 +13,6 @@ for everything | deadlines | expectations | zoom info, etc. | downloads | to rea
 ## Materials for Today's Class
 
 - Today's Slides will be [available in PDF](https://github.com/THOMASELOVE/500-2021/blob/master/classes/class01/500_2021_slides01.pdf), as well as in [R Markdown](https://github.com/THOMASELOVE/500-2021/blob/master/classes/class01/500_2021_slides01.Rmd).
-- All 500 classes are video-recorded, and the recordings will be archived in the Zoom section of [Canvas](https://canvas.case.edu).
-- We expect you to attend all classes live via Zoom, to facilitate our discussions (which will be a bigger part of the second half of the course.)
 
 ## Logistics and Reminders
 
@@ -29,7 +27,8 @@ for everything | deadlines | expectations | zoom info, etc. | downloads | to rea
 4. Please read the [Syllabus](https://thomaselove.github.io/500-2021-syllabus/) and familiarize yourself with the [Course Website](https://thomaselove.github.io/500), the Shared Google Drive (which you can see from your Google CWRU account), and [Canvas](https://canvas.case.edu/) before next Thursday's class so that if you have any questions or problems getting started, we can settle them quickly.
     - Questions should be posted to 500-help at case dot edu, where our TA (Wyatt Bensken) and I will see them. Wyatt is also available for office hours by appointment.
 5. The final word on all deadlines is the [Course Calendar](https://thomaselove.github.io/500/calendar.html). All deliverables for the entire semester are listed.
-6. I want to remind you of the University's resources to help you that are listed in [Section 8 of our syllabus](https://thomaselove.github.io/500-2021-syllabus/university-resources-for-student-support.html), especially the newly available [CWRU Care 24/7 Mental Telehealth for Students](https://timely.md/faq/cwrucare/) program.
+6. We expect you to attend all classes live via Zoom, to facilitate our discussions (which will be a bigger part of the second half of the course.) All 500 classes are video-recorded, and the recordings will be archived in the Zoom section of [Canvas](https://canvas.case.edu).
+7. I want to remind you of the University's resources to help you that are listed in [Section 8 of our syllabus](https://thomaselove.github.io/500-2021-syllabus/university-resources-for-student-support.html), especially the newly available [CWRU Care 24/7 Mental Telehealth for Students](https://timely.md/faq/cwrucare/) program.
 
 ![](https://github.com/THOMASELOVE/500-2021/blob/master/classes/class01/figures/lancet-tw01.PNG)
 
