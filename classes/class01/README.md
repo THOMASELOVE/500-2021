@@ -31,6 +31,11 @@ for everything | deadlines | expectations | zoom info, etc. | downloads | to rea
 5. The final word on all deadlines is the [Course Calendar](https://thomaselove.github.io/500/calendar.html). All deliverables for the entire semester are listed.
 6. I want to remind you of the University's resources to help you that are listed in [Section 8 of our syllabus](https://thomaselove.github.io/500-2021-syllabus/university-resources-for-student-support.html), especially the newly available [CWRU Care 24/7 Mental Telehealth for Students](https://timely.md/faq/cwrucare/) program.
 
+![](https://github.com/THOMASELOVE/500-2021/blob/master/classes/class01/figures/lancet-tw01.PNG)
+
+![](https://github.com/THOMASELOVE/500-2021/blob/master/classes/class01/figures/lancet-tw02.PNG)
+
+![](https://github.com/THOMASELOVE/500-2021/blob/master/classes/class01/figures/lancet-tw03.PNG)
 
 ## Questions (with Answers) from the "[Welcome to 500 Survey](http://bit.ly/500-2021-welcome-survey)"
 
