@@ -276,6 +276,8 @@ Serum cholesterol > 249 mg/dl \*\* | 31.6 | 20.6
     + Both had a standard error of 2%, so the 1 percentage point difference in mortality was not significant
 - Evidently, when comparable groups of patients received medical and surgical treatment at VA hospitals, outcomes were quite similar.
 
+Note that a 1984 NEJM follow-up (11-year survival) is available at https://pubmed.ncbi.nlm.nih.gov/6333636/.
+
 ## Why wouldn't you always do experiments?
 
 - Any thoughts?
@@ -289,22 +291,24 @@ Serum cholesterol > 249 mg/dl \*\* | 31.6 | 20.6
 - The treatment may be beyond the legal reach of experimental manipulation.
 - Experimental subjects may have strong attachments to particular treatments.
 
+It's a false choice - it's not really possible to do "only" experiments or "only observational studies.
+
 ## Why does observational inference matter?
 
-Adapted from [Emily Riederer](https://emilyriederer.netlify.app/post/causal-design-patterns/):
+Adapted from [Emily Riederer](https://emilyriederer.netlify.app/post/causal-design-patterns/) (see Sources page)
 
 - Even when you can experiment, understanding observational causal inference can help you better identify biases and design your experiments
 - Testing can be expensive. 
   - There are direct costs of instituting a policy that might not be effective, implementation costs, and opportunity costs (holding out a control group and not applying what you hope to be a good strategy as broadly as possible.)
-- Randomized experimentation is harder than it sounds! Sometimes experiments may not go as planned, but treating the results as observational data may help salvage some information value
+- Randomized experimentation is harder than it sounds! Sometimes experiments may not go as planned, but treating the results as observational data may help salvage some information value.
 - Data collection can take time. When we long to read an experiment that wasn’t launched three years ago, historical observational data can help us get a preliminary answer sooner.
-- It’s not "either/or" but "both and". Due to the financial and temporal costs of experimentation, causal inference can also be a tool to help us better prioritize what experiments are worth running.
 
 Sometimes, we have other problems...
 
 ## The MRFIT Trial
 
-Multiple Risk Factor Intervention Trial  (*JAMA* 1982)
+Multiple Risk Factor Intervention Trial  (*JAMA* 1982)\footnote{Multiple risk factor intervention trial. Risk factor changes and mortality results. Multiple Risk Factor Intervention Trial Research Group. JAMA
+. 1982 Sep 24;248(12):1465-77. https://pubmed.ncbi.nlm.nih.gov/7050440/}
 
 > The Multiple Risk Factor Intervention Trial was a randomized primary prevention trial to test the effect of a multifactor intervention program on mortality from coronary heart disease (CHD) in 12,866 high-risk men aged 35 to 57 years. 
 
@@ -522,6 +526,9 @@ We'd like to describe cause-effect relationships from non-experimental data. Thi
 > ... the elucidation of causal relationships from observational studies must be shaped by knowledge (or assumptions) about how the data were generated; such assumptions are crucial to causal inference.
 
 > - Judea Pearl (2000) Causal Inference in the Health Sciences: A Conceptual Introduction *Health Services & Outcomes Research Methodology* 2: 189-220.
+
+> - You might be interested as well in [The Book of Why](http://bayes.cs.ucla.edu/WHY/) by Judea Pearl and Dana Mackenzie.
+
 
 ## How Randomization Works
 
@@ -817,7 +824,7 @@ We will often distinguish between overt and hidden bias.
 
 ## Aspirin Use and Mortality - The Real Study
 
-6174 consecutive adults at CCF undergoing stress echocardiography for evaluation of known or suspected coronary disease\footnote{Gum PA et al. 2001}.
+6174 consecutive adults at CCF undergoing stress echocardiography for evaluation of known or suspected coronary disease\footnote{Gum PA et al. Aspirin use and all-cause mortality among patients being evaluated for known or suspected coronary artery disease: A propensity analysis JAMA 2001 Sep 12; 286(10): 1187-94. https://pubmed.ncbi.nlm.nih.gov/11559263/}.
 
 - 2310 (37\%) were taking aspirin (treatment).
 - Main Outcome: all-cause mortality 
