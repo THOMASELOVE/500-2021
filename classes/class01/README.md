@@ -1,6 +1,6 @@
 # 500 Class 01: 2021-02-04
 
-[Main Website](https://thomaselove.github.io/500/) | [Course Calendar](https://thomaselove.github.io/500/calendar.html) | [Syllabus](https://thomaselove.github.io/500-2021-syllabus/) | [Canvas](https://canvas.case.edu) | [Data/Code](https://github.com/THOMASELOVE/500-data) | [Sources] | Need Help? Email Us!
+[Main Website](https://thomaselove.github.io/500/) | [Course Calendar](https://thomaselove.github.io/500/calendar.html) | [Syllabus](https://thomaselove.github.io/500-2021-syllabus/) | [Canvas](https://canvas.case.edu) | [Data/Code](https://github.com/THOMASELOVE/500-data) | [Sources](https://github.com/THOMASELOVE/500-2021/tree/master/sources) | Need Help? Email Us!
 :-----------: | :--------------: | :----------: | :---------: | :-------------: | :-----------: | :-----------: 
 for everything | deadlines | expectations | zoom information | downloads | to read | `500-help` at `case dot edu`
 
