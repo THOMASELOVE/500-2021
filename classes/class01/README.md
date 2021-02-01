@@ -2,7 +2,7 @@
 
 [Main Website](https://thomaselove.github.io/500/) | [Calendar](https://thomaselove.github.io/500/calendar.html) | [Syllabus](https://thomaselove.github.io/500-2021-syllabus/) | [Canvas](https://canvas.case.edu) | [Data/Code](https://github.com/THOMASELOVE/500-data) | [Sources](https://github.com/THOMASELOVE/500-2021/tree/master/sources) | Need Help? Email Us!
 :-----------: | :--------------: | :----------: | :---------: | :-------------: | :-----------: | :-----------: 
-for everything | deadlines | expectations | zoom information | downloads | to read | `500-help` at `case dot edu`
+for everything | deadlines | expectations | zoom info, etc. | downloads | to read | `500-help` at `case dot edu`
 
 ## Class 01 Materials will appear here as they become available.
 
