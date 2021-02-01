@@ -17,7 +17,7 @@ for everything | deadlines | expectations | zoom info, etc. | downloads | to rea
 Articles posted on our [Sources page](https://github.com/THOMASELOVE/500-2021/blob/master/sources/README.md)
 
 - Cochran WG 1968 [The Effectiveness of Adjustment by Subclassification in Removing Bias in Observational Studies](https://github.com/THOMASELOVE/500-2021/blob/master/sources/articles/Cochran%201968.pdf) *Biometrics* 24, 205-213.
-- Gum Patricia A Thamailarasan Maran Watanabe Junko et al. 2001 [Aspirin Use and All-Cause Mortality among Patients being Evaluated for Known or Suspected Coronary Artery Disease](https://github.com/THOMASELOVE/500-2021/blob/master/sources/articles/Gum%202001%20JAMA%20Aspirin%20Use%20Propensity%20Analysis.pdf) *Journal of the American Medical Association* 2001 286(10: 1187-1194.
+- Gum Patricia A Thamailarasan Maran Watanabe Junko et al. 2001 [Aspirin Use and All-Cause Mortality among Patients being Evaluated for Known or Suspected Coronary Artery Disease](https://github.com/THOMASELOVE/500-2021/blob/master/sources/articles/Gum%202001%20JAMA%20Aspirin%20Use%20Propensity%20Analysis.pdf) *JAMA* 2001 286(10): 1187-1194.
 - Riederer Emily 2021 [Causal design patterns for data analysts](https://emilyriederer.netlify.app/post/causal-design-patterns/) blog published 2021-01-31.
 - Women's Health Initiative Writing Group 2002 [Risks and Benefits of Estrogen Plus Progestin in Healthy Postmenopausal Women: Principal Results From the Women's Health Initiative Randomized Controlled Trial](https://jamanetwork.com/journals/jama/fullarticle/195120) *JAMA* 2002; 288(3):321-333. doi:10.1001/jama.288.3.321
 
