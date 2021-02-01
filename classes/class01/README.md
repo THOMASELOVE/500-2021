@@ -8,7 +8,7 @@ for everything | deadlines | expectations | zoom info, etc. | downloads | to rea
 
 - Instructor: Thomas E. Love, Ph.D., Professor of Medicine and of Population and Quantitative Health Sciences, CWRU.
 - TA: We are fortunate to have [Wyatt P. Bensken](https://wyattbensken.com/) as our teaching assistant. 
-- Learn more about us in the [Syllabus](https://thomaselove.github.io/500-2021-syllabus/).
+- Learn more about us in the [Syllabus](https://thomaselove.github.io/500-2021-syllabus/). Contact us at **500-help** at **case dot edu** with any questions.
 
 ## Materials for Today's Class
 
