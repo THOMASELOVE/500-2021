@@ -288,8 +288,19 @@ Serum cholesterol > 249 mg/dl \*\* | 31.6 | 20.6
 - The treatment may be controlled by a political process that will not yield control.
 - The treatment may be beyond the legal reach of experimental manipulation.
 - Experimental subjects may have strong attachments to particular treatments.
-- Sometimes, we have other problems...
 
+## Why does observational inference matter?
+
+Adapted from [Emily Riederer](https://emilyriederer.netlify.app/post/causal-design-patterns/):
+
+- Even when you can experiment, understanding observational causal inference can help you better identify biases and design your experiments
+- Testing can be expensive. 
+  - There are direct costs of instituting a policy that might not be effective, implementation costs, and opportunity costs (holding out a control group and not applying what you hope to be a good strategy as broadly as possible.)
+- Randomized experimentation is harder than it sounds! Sometimes experiments may not go as planned, but treating the results as observational data may help salvage some information value
+- Data collection can take time. When we long to read an experiment that wasn’t launched three years ago, historical observational data can help us get a preliminary answer sooner.
+- It’s not "either/or" but "both and". Due to the financial and temporal costs of experimentation, causal inference can also be a tool to help us better prioritize what experiments are worth running.
+
+Sometimes, we have other problems...
 
 ## The MRFIT Trial
 
