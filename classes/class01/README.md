@@ -6,7 +6,9 @@ for everything | deadlines | expectations | zoom info, etc. | downloads | to rea
 
 ## Welcome to 500!
 
-Your instructor is Thomas E. Love, Ph.D. and we are fortunate to have [Wyatt P. Bensken](https://wyattbensken.com/) as our teaching assistant. Learn more about us in the [Syllabus](https://thomaselove.github.io/500-2021-syllabus/).
+- Instructor: Thomas E. Love, Ph.D., Professor of Medicine and of Population and Quantitative Health Sciences, CWRU.
+- TA: We are fortunate to have [Wyatt P. Bensken](https://wyattbensken.com/) as our teaching assistant. 
+- Learn more about us in the [Syllabus](https://thomaselove.github.io/500-2021-syllabus/).
 
 ## Materials for Today's Class
 
