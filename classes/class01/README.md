@@ -12,7 +12,7 @@ for everything | deadlines | expectations | zoom info, etc. | downloads | to rea
 
 ## Materials for Today's Class
 
-- Today's Slides will be [available in PDF](https://github.com/THOMASELOVE/500-2021/blob/master/classes/class01/500_2021_slides01.pdf), as well as in [R Markdown](https://github.com/THOMASELOVE/500-2021/blob/master/classes/class01/500_2021_slides01.Rmd).
+- Today's Slides are [available in PDF](https://github.com/THOMASELOVE/500-2021/blob/master/classes/class01/500_2021_slides01.pdf), as well as in [R Markdown](https://github.com/THOMASELOVE/500-2021/blob/master/classes/class01/500_2021_slides01.Rmd).
 
 ## Logistics and Reminders
 
