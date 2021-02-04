@@ -6,9 +6,10 @@ for everything | deadlines | expectations | zoom info, etc. | downloads | to rea
 
 ## Materials for Today's Class
 
-- Today's class will be held from **9:30 AM to 10:45 AM**, with a pre-recorded lecture that you will find on our shared Google Drive that we expect you to watch prior to class.
+- Today's class will be held from **9:30 AM to 10:45 AM**. Dr. Love will open Zoom 10 minutes before and stay on until we run out of questions after the main session.
+- Before class, please watch the pre-recorded lecture using the link on our shared Google Drive. This link is available now.
 - The Slides for Class 02 are [available in PDF](https://github.com/THOMASELOVE/500-2021/blob/master/classes/class02/500_2021_slides02.pdf), as well as in [R Markdown](https://github.com/THOMASELOVE/500-2021/blob/master/classes/class02/500_2021_slides02.Rmd).
-    - The pre-recorded lecture slides are the first 72 in this deck. Watch the recording and review these slides before class.
+    - The pre-recorded lecture slides are the first 72 in this deck. 
     - The deck continues with additional material that we'll discuss in our class session.
 - As always, Dr. Love will be available for the 10 minutes before and 15 minutes after this session for informal "office hours". If you need help with anything, please email us!
 
