@@ -12,6 +12,10 @@ for everything | deadlines | expectations | zoom info, etc. | downloads | to rea
     - The deck continues with additional material that we'll discuss in our class session.
 - As always, Dr. Love will be available for the 10 minutes before and 15 minutes after this session for informal "office hours". If you need help with anything, please email us!
 
+## Announcements
+
+1. All of [the talks from rstudio::global(2021)](https://rstudio.com/resources/rstudioglobal-2021/) are now available to watch.
+
 ## References from Today's Class
 
 Articles posted on our [Sources page](https://github.com/THOMASELOVE/500-2021/blob/master/sources/README.md)
