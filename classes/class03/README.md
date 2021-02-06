@@ -38,6 +38,7 @@ References posted on our [Sources page](https://github.com/THOMASELOVE/500-2021/
 Other references in the slides, if you're interested in tracking down further details...
 
 - Brookhart MA Schneeweiss S Rothman KJ Glynn RJ Avorn J Stürmer T Variable selection for propensity score models. *Am J Epidemiol* 2006 Jun 15;163(12):1149-56. doi: 10.1093/aje/kwj149. Epub 2006 Apr 19 [PubMed](https://pubmed.ncbi.nlm.nih.gov/16624967/)
+- D'Agostino Jr. RB and Rubin DB Estimating and Using Propensity Scores with Partially Missing Data *JASA* 2000, 95(451): 749-759.
 - McCaffrey DF Ridgeway G Morral AR Propensity score estimation with boosted regression for evaluating causal effects in observational studies. *Psychol Methods* 2004 Dec;9(4):403-25. doi: 10.1037/1082-989X.9.4.403. [PubMed](https://pubmed.ncbi.nlm.nih.gov/15598095/)
 - Harrell FE *[Biostatistics for Biomedical Research](http://hbiostat.org/bbr/)*, specifically the [BBR Notes (pdf)](http://hbiostat.org/doc/bbr.pdf). 
 - Lunceford JK and Davidian M 2004 Stratification and weighting via the propensity score in estimation of causal treatment effects: a comparative study. *Stat Med* 2004 Oct 15;23(19):2937-60. doi: 10.1002/sim.1903. [PubMed](https://pubmed.ncbi.nlm.nih.gov/15351954/).
