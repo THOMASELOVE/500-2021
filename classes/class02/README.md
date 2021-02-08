@@ -17,6 +17,9 @@ for everything | deadlines | expectations | zoom info, etc. | downloads | to rea
 
 1. All of [the talks from rstudio::global(2021)](https://rstudio.com/resources/rstudioglobal-2021/) are now available to watch.
 2. A new monthly Zoom lecture series on social determinants of health, led by my colleague Dr. Ash Sehgal at [MetroHealth](https://www.metrohealth.org/) and the [Institute for H.O.P.E.](https://www.metrohealth.org/institute-for-hope) starts soon. [This two-page flyer](https://github.com/THOMASELOVE/500-2021/blob/master/classes/class02/SDOH_Seminar_Series_2021_March_and_April.pdf) describes the sessions and speakers for 2021-03-01 (Laura Gottlieb) and 2021-04-05 (Rishi Manchanda).
+3. It's never too early to start thinking about:
+    - claiming an OSIA article
+    - developing a project proposal (and identifying an available data set)
 
 ## References from Today's Class
 
