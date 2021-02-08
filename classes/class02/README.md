@@ -25,6 +25,7 @@ for everything | deadlines | expectations | zoom info, etc. | downloads | to rea
 5. It's not too early to start thinking about:
     - claiming an [Observational Studies In Action](https://github.com/THOMASELOVE/500-2021/tree/master/osia) article (due 2021-03-02)
     - developing a [project proposal](https://github.com/THOMASELOVE/500-2021/tree/master/project) (and identifying an available data set) (initial draft due 2021-03-09)
+6. I recently purchased a copy of [Causal Inference: The Mixtape](https://www.scunning.com/mixtape.html) by Scott Cunningham. It looks really interesting, although I won't get into it seriously for at least another month. [The online version is available here](https://mixtape.scunning.com/).
 
 ## References from Today's Class
 
