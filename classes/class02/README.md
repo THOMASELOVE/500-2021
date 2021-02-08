@@ -17,9 +17,14 @@ for everything | deadlines | expectations | zoom info, etc. | downloads | to rea
 
 1. All of [the talks from rstudio::global(2021)](https://rstudio.com/resources/rstudioglobal-2021/) are now available to watch.
 2. A new monthly Zoom lecture series on social determinants of health, led by my colleague Dr. Ash Sehgal at [MetroHealth](https://www.metrohealth.org/) and the [Institute for H.O.P.E.](https://www.metrohealth.org/institute-for-hope) starts soon. [This two-page flyer](https://github.com/THOMASELOVE/500-2021/blob/master/classes/class02/SDOH_Seminar_Series_2021_March_and_April.pdf) describes the sessions and speakers for 2021-03-01 (Laura Gottlieb) and 2021-04-05 (Rishi Manchanda).
-3. It's never too early to start thinking about:
-    - claiming an OSIA article
-    - developing a project proposal (and identifying an available data set)
+3. The answer sketch for Lab 1 [will be posted by Friday morning](https://github.com/THOMASELOVE/500-2021/blob/master/labs/lab1/README.md).
+4. A reminder that [Lab 2](https://github.com/THOMASELOVE/500-2021/tree/master/labs/lab2) is due next Thursday 2021-02-18 at 8 AM.
+    - You'll be selecting a sample which should include some missing data, building a Table 1, building a logistic regression model, and then **repeating the process** with a revised sample after dealing with missing data. Then you'll add fitted probabilities from your logistic regression model to the data (probably using `augment` from the `broom` package, but not necessarily) and then visualize the results in an interesting way.
+    - [Lab 0](https://github.com/THOMASELOVE/500-2021/blob/master/labs/lab0/README.md) and [the R-basics materials](https://github.com/THOMASELOVE/500-2021/blob/master/r-basics/README.md) can help here, in addition to [the Lab 1 sketch](https://github.com/THOMASELOVE/500-2021/blob/master/labs/lab1/README.md) when it becomes available.
+    - Contact Wyatt and I if you need help at **500-help at case dot edu**.
+5. It's not too early to start thinking about:
+    - claiming an [Observational Studies In Action](https://github.com/THOMASELOVE/500-2021/tree/master/osia) article (due 2021-03-02)
+    - developing a [project proposal](https://github.com/THOMASELOVE/500-2021/tree/master/project) (and identifying an available data set) (initial draft due 2021-03-09)
 
 ## References from Today's Class
 
