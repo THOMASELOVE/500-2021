@@ -16,6 +16,8 @@ From Miguel's description at that link:
 
 > Jamie Robins and I have written a book that provides a cohesive presentation of concepts of, and methods for, causal inference. Much of this material is currently scattered across journals in several disciplines or confined to technical articles. We expect that the book will be of interest to anyone interested in causal inference, e.g., epidemiologists, statisticians, psychologists, economists, sociologists, political scientists, computer scientists… The book is divided in 3 parts of increasing difficulty: causal inference without models, causal inference with models, and causal inference from complex longitudinal data.
 
+- I recently purchased a copy of [Causal Inference: The Mixtape](https://www.scunning.com/mixtape.html) by Scott Cunningham. It looks really interesting, although I won't be able to devote meaningful time to it before March. [The online version is available here](https://mixtape.scunning.com/) if you're interested in checking it out.
+
 ## Other References and Resources
 
 Many additional sources will be presented and referenced in class, and those are gathered below, along with other references that I've used in the past. I expect you will read some, but not all of these items, depending on what is most useful to you. The PDF files [are available here](https://github.com/THOMASELOVE/500-2021/tree/master/sources/articles). Some are password-protected, and thus show up in Github as invalid files. The password will be revealed at the first class.
