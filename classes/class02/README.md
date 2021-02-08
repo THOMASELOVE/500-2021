@@ -26,6 +26,8 @@ for everything | deadlines | expectations | zoom info, etc. | downloads | to rea
     - claiming an [Observational Studies In Action](https://github.com/THOMASELOVE/500-2021/tree/master/osia) article (due 2021-03-02)
     - developing a [project proposal](https://github.com/THOMASELOVE/500-2021/tree/master/project) (and identifying an available data set) (initial draft due 2021-03-09)
 6. I recently purchased a copy of [Causal Inference: The Mixtape](https://www.scunning.com/mixtape.html) by Scott Cunningham. It looks really interesting, although I won't get into it seriously for at least another month. [The online version is available here](https://mixtape.scunning.com/).
+7. Today we'll discuss Lucy D'Agostino McGowan's [February 2017 blog post](https://www.kdnuggets.com/2017/02/hill-data-scientist-xkcd-story.html) "[Causation or Correlation: Explaining HIll Criteria using `xkcd`](https://www.kdnuggets.com/2017/02/hill-data-scientist-xkcd-story.html)."
+    - It was inspired by Roger Peng and Hilary Parker's [Not So Standard Deviations podcast, Episode 28](http://nssdeviations.com/episode-28-writing-is-a-lot-harder-than-just-talking).
 
 ## References from Today's Class
 
