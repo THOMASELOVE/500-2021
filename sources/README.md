@@ -17,6 +17,7 @@ From Miguel's description at that link:
 > Jamie Robins and I have written a book that provides a cohesive presentation of concepts of, and methods for, causal inference. Much of this material is currently scattered across journals in several disciplines or confined to technical articles. We expect that the book will be of interest to anyone interested in causal inference, e.g., epidemiologists, statisticians, psychologists, economists, sociologists, political scientists, computer scientists… The book is divided in 3 parts of increasing difficulty: causal inference without models, causal inference with models, and causal inference from complex longitudinal data.
 
 - I recently purchased a copy of [Causal Inference: The Mixtape](https://www.scunning.com/mixtape.html) by Scott Cunningham. It looks really interesting, although I won't be able to devote meaningful time to it before March. [The online version is available here](https://mixtape.scunning.com/) if you're interested in checking it out.
+- If you want to learn more about difference-in-differences analysis, I recommend https://diff.healthpolicydatascience.org/.
 
 ## Other References and Resources
 
