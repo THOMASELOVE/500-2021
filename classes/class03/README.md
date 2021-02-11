@@ -15,7 +15,7 @@ for everything | for deadlines | expectations | zoom information | for downloads
 
 ## Announcements
 
-To come.
+1. If you want to learn more about difference-in-differences analysis, I recommend https://diff.healthpolicydatascience.org/.
 
 ## References from Today's Class
 
