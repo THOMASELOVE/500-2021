@@ -6,7 +6,7 @@ for everything | for deadlines | expectations | zoom information | for downloads
 
 ## Materials for Today's Class
 
-- Today's class will be held from **9:30 AM to 10:45 AM**. Dr. Love will open Zoom 10 minutes before and stay on until we run out of questions after the main session.
+- Today's class will be held from **9:30 AM to 10:50 AM**. Dr. Love will open Zoom 10 minutes before and stay on until we run out of questions after the main session.
 - Before class, please watch the pre-recorded lecture using the link on our shared Google Drive, when it becomes available.
 - The Slides for Class 03 are [available in PDF](https://github.com/THOMASELOVE/500-2021/blob/master/classes/class03/500_2021_slides03.pdf), as well as in [R Markdown](https://github.com/THOMASELOVE/500-2021/blob/master/classes/class03/500_2021_slides03.Rmd).
     - The pre-recorded lecture slides are the first 70 in this deck. 
@@ -16,6 +16,11 @@ for everything | for deadlines | expectations | zoom information | for downloads
 ## Announcements
 
 1. If you want to learn more about difference-in-differences analysis, I recommend https://diff.healthpolicydatascience.org/.
+2. Class 4 next week will also be held from 9:30 to 10:50 AM.
+    - The Class 4 pre-recording will be available soon, and will present (most of) an R example I've built called the [toy example](https://github.com/THOMASELOVE/500-data/tree/master/toy2021). You can review the code and results now.
+    - The toy example uses simulated data, but Wyatt has prepared [the lindner example](https://github.com/THOMASELOVE/500-data/tree/master/lindner) which addresses many of the same issues using a real, albeit unrealistically clean, data set.
+    - Wyatt will lead the Class 4 session. At that session, you'll be discussing Chapter 4 of Rosenbaum and Wyatt will also introduce the lindner example briefly, along with discussing any questions you have related to the pre-recorded lecture. You will be in excellent hands.
+    - Dr. Love will be at AHRQ study section during Class 4, and will return for Class 5.
 
 ## References from Today's Class
 
