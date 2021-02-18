@@ -4,4 +4,5 @@ This page identifies "claimed" OSIA studies in Spring 2021.
 
 Claimed By | OSIA
 ---------: | --------------------------------------------------------------------------
+Pamela Robinson | [josephat_2015](https://github.com/THOMASELOVE/500-2021/blob/master/osia/claims/pdf/josephat_2015.pdf) Josephat P et al. Analysis of Effects of Agriculture Intervention Using Propensity Score Matching. *J Agricultural Studies* 2015; 3(2): 49-60. DOI: 10.5296/jas.v3i2.7339
 Matt Siuba | [admon_2019](https://github.com/THOMASELOVE/500-2021/blob/master/osia/claims/pdf/admon_2019.pdf) Admon AJ et al. Evaluating a Novel Clinical Trial Using Existing Observational Data, Annals Am Thorac Soc 2019; 16(8): 998-1007. DOI: 10.1513/AnnalsATS.201903-241OC
