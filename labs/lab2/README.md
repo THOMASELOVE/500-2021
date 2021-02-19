@@ -11,4 +11,4 @@
 
 ## Post-Submission Materials
 
-The Answer Sketch and other materials will appear in due time.
+The Answer Sketch is now available in our Shared Google Drive in R Markdown and PDF.
