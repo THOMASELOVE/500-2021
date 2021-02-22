@@ -8,6 +8,14 @@ for everything | for deadlines | expectations | zoom information | for downloads
 
 - The [toy example](https://github.com/THOMASELOVE/500-data/tree/master/toy2021) is the focus of today's pre-recorded lecture.
 
+## Today's Class Session will run from 9:30 to 10:50 AM
+
+You'll be discussing
+
+- your questions about the pre-recorded lecture
+- Rosenbaum, Chapter 4
+- The [lindner example](https://github.com/THOMASELOVE/500-data/tree/master/lindner) as revised by Wyatt for this year's class
+
 ## Announcements
 
 1. Wyatt has reviewed [the Lab 2 responses](https://github.com/THOMASELOVE/500-2021/tree/master/labs/lab2). Overall, they were fairly solid, and I hope the sketch (posted to our Shared Google Drive) is of some help to you. Wyatt's main reminder is to look at your outcome of interest early on (before splitting the data) and removing any missing cases of the outcome. In this course, when actually doing an observational study of a treatment's effect on an outcome, we will not impute outcomes or treatments and instead remove cases with missing values in those key variables. We will impute missing covariates all the time.
