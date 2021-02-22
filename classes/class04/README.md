@@ -6,11 +6,11 @@ for everything | for deadlines | expectations | zoom information | for downloads
 
 ## Pre-Recorded Lecture Materials
 
-- The [toy example](https://github.com/THOMASELOVE/500-data/tree/master/toy2021) is the focus of today's pre-recorded lecture.
+- The [toy example](https://github.com/THOMASELOVE/500-data/tree/master/toy2021) is the focus of today's 82-minute pre-recorded lecture. You'll find the link in the usual place on our Shared Google Drive.
 
 ## Today's Class Session will run from 9:30 to 10:50 AM
 
-You'll be discussing
+You'll be discussing:
 
 - your questions about the pre-recorded lecture
 - Rosenbaum, Chapter 4
