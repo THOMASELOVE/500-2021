@@ -19,7 +19,7 @@ You'll be discussing:
 ## Announcements
 
 1. Wyatt has reviewed [the Lab 2 responses](https://github.com/THOMASELOVE/500-2021/tree/master/labs/lab2). Overall, they were fairly solid, and I hope the sketch (posted to our Shared Google Drive) is of some help to you. Wyatt's main reminder is to look at your outcome of interest early on (before splitting the data) and removing any missing cases of the outcome. In this course, when actually doing an observational study of a treatment's effect on an outcome, we will not impute outcomes or treatments and instead remove cases with missing values in those key variables. We will impute missing covariates all the time.
-2. A reminder that [your Observational Studies in Action claim](https://github.com/THOMASELOVE/500-2021/tree/master/osia) is due 2021-03-02 at 9 PM. Several claims are already posted, and thanks to those of you who've completed that task.
+2. A reminder that [your Observational Studies in Action claim](https://github.com/THOMASELOVE/500-2021/tree/master/osia) is due 2021-03-02 at 9 PM. [Several claims are already posted](https://github.com/THOMASELOVE/500-2021/tree/master/osia/claims), and remember that in early March you will also be assigned to one of your colleagues' papers as second reader. Thanks to those of you who've submitted a successful claim already.
 3. A reminder that the [Project Proposal](https://github.com/THOMASELOVE/500-2021/blob/master/project/01_proposal.md) is due to Canvas by 9 PM on 2021-03-09.
 4. [Lab 3](https://github.com/THOMASELOVE/500-2021/tree/master/labs) (which should look more like something you can do after reviewing the toy example) is due on 2021-03-11.
 
