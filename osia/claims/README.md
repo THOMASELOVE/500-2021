@@ -7,6 +7,7 @@ Claimed By | Link | Study Details
 Stephanie Merlino Barr | [roze_2017](https://github.com/THOMASELOVE/500-2021/blob/master/osia/claims/pdf/roze_2017.pdf) | Roze J-C et al. Nutritional strategies and gut microbiota composition as risk factors for necrotizing enterocolitis in very-preterm infants. *Amer J Clin Nutrition* 2017; 106: 821-830. DOI: [10.3945/ajcn.117.152967.](https://doi.org/10.3945/ajcn.117.152967.) **PDF includes supplementary material**.
 Carolyn Goldschmidt | [naegelin_2019](https://github.com/THOMASELOVE/500-2021/blob/master/osia/claims/pdf/naegelin_2019.pdf) | Naegelin Y et al. Association of Rituximab Treatment With Disability Progression Among Patients With Secondary Progressive Multiple Sclerosis. *JAMA Neurology* 2019; 76(3): 274-281. DOI: [10.1001/jamaneurol.2018.4239](https://doi.org/10.1001/jamaneurol.2018.4239)
 David Gletsu | [eshleman_2014](https://github.com/THOMASELOVE/500-2021/blob/master/osia/claims/pdf/eshleman_2014.pdf) | Eshleman JD Guo P Do Big 4 Auditors Provide Higher Audit Quality after Controlling for the Endogenous Choice of Auditor? *Auditing: A Journal of Practice & Theory* 2014; 33(4): 197-219. DOI: [10.2308/ajpt-50792](https://doi.org/10.2308/ajpt-50792)
+Caitlyn Grubbs | [mcisaac_2017](https://github.com/THOMASELOVE/500-2021/blob/master/osia/claims/pdf/mcisaac_2017.pdf) | McIsaac DI et al. Association of delay of urgent or emergency surgery with mortality and use of health care resources: a propensity score–matched observational cohort study *CMAJ* 2017; 189: E905-912. DOI: [10.1503/cmaj.160576](https://doi.org/10.1503/cmaj.160576) **PDF includes supplementary material**.
 Ritu Narahari | [retelsdorf_2011](https://github.com/THOMASELOVE/500-2021/blob/master/osia/claims/pdf/retelsdorf_2011.pdf) | Retelsdorf J et al. Reading development in a tracked school system: A longitudinal study over 3 years using propensity score matching. *British J Educ Psych* 2012; 82: 647-671. DOI: [10.1111/j.2044-8279.2011.02051.x](https://doi.org/10.1111/j.2044-8279.2011.02051.x)
 Julia Payne | [kwak_2020](https://github.com/THOMASELOVE/500-2021/blob/master/osia/claims/pdf/kwak_2020.pdf) | Kwak M et al. Bariatric surgery is associated with reduction in non-alcoholic steatohepatitis and hepatocellular carcinoma: A propensity matched analysis. *Amer J Surgery* 2020; 219: 504-507. DOI: [10.1016/j.amjsurg.2019.09.006](https://doi.org/10.1016/j.amjsurg.2019.09.006) **PDF includes supplementary material**.
 Lindsay Petrenchik | [montano_2019](https://github.com/THOMASELOVE/500-2021/blob/master/osia/claims/pdf/montano_2019.pdf) | Montano MA et al. Differences in sexually transmitted infection risk comparing preexposure prophylaxis users and propensity score matched historical controls in a clinic setting. *AIDS* 2019; 33: 1773-1780. DOI: [10.1097/QAD.0000000000002281](https://doi.org/10.1097/QAD.0000000000002281) **PDF includes supplementary material**.
@@ -17,7 +18,6 @@ Jakob Woerner | [freedberg_2020](https://github.com/THOMASELOVE/500-2021/blob/ma
 
 ### Not Yet Submitted
 
-- Caitlyn Grubbs
 - Amr Mahran
 - Rod Nault
 - Anastasia Vassiliou
