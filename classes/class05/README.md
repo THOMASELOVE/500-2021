@@ -15,6 +15,6 @@ for everything | for deadlines | expectations | zoom information | for downloads
 
 ## Announcements
 
-1. Last Thursday, Wyatt and I updated [the toy example](https://github.com/THOMASELOVE/500-data/tree/master/toy2021) and [the lindner example](https://github.com/THOMASELOVE/500-data/tree/master/lindner) to deal with the changes caused by an update to the cobalt package, mostly. I assume you got my email - if not, please let us know.
+1. On 2021-02-25, Wyatt and I updated [the toy example](https://github.com/THOMASELOVE/500-data/tree/master/toy2021) and [the lindner example](https://github.com/THOMASELOVE/500-data/tree/master/lindner) to deal with the changes caused by an update to the cobalt package, mostly. I assume you got my email - if not, please let us know.
 
 
