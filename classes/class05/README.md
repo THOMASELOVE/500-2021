@@ -13,4 +13,8 @@ for everything | for deadlines | expectations | zoom information | for downloads
     - The deck continues with additional material that we'll discuss in our class session.
 - As always, Dr. Love will be available for the 10 minutes before and 15 minutes after this session for informal "office hours". If you need help with anything, please email us!
 
-## More to come.
+## Announcements
+
+1. Last Thursday, Wyatt and I updated [the toy example](https://github.com/THOMASELOVE/500-data/tree/master/toy2021) and [the lindner example](https://github.com/THOMASELOVE/500-data/tree/master/lindner) to deal with the changes caused by an update to the cobalt package, mostly. I assume you got my email - if not, please let us know.
+
+
