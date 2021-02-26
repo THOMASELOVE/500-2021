@@ -11,10 +11,12 @@ for everything | for deadlines | expectations | zoom information | for downloads
 - The Slides for Class 05 will be [available in PDF](https://github.com/THOMASELOVE/500-2021/blob/master/classes/class05/500_2021_slides05.pdf), as well as in [R Markdown](https://github.com/THOMASELOVE/500-2021/blob/master/classes/class05/500_2021_slides05.Rmd).
     - The pre-recorded lecture slides are the first XX in this deck. 
     - The deck continues with additional material that we'll discuss in our class session.
+- The [dm2200 example](https://github.com/THOMASELOVE/500-data/tree/master/dm2200) demonstrates the use of several R packages to develop causal effect estimates using various types of propensity score matching. This example is a substantial part of the discussion in today's pre-recorded material.
 - As always, Dr. Love will be available for the 10 minutes before and 15 minutes after this session for informal "office hours". If you need help with anything, please email us!
 
 ## Announcements
 
 1. On 2021-02-25, Wyatt and I updated [the toy example](https://github.com/THOMASELOVE/500-data/tree/master/toy2021) and [the lindner example](https://github.com/THOMASELOVE/500-data/tree/master/lindner) to deal with the changes caused by an update to the cobalt package, mostly. I assume you got my email - if not, please let us know.
 2. On 2021-02-26, I posted to the Shared Google Drive my comments on Paul Rosenbaum's *Observation and Experiment* including comments on all chapters other than the ones where you'll be writing [essays](https://github.com/THOMASELOVE/500-2021/blob/master/essays/README.md), starting with the Chapter 7 essay due on 2021-03-18. 
+3. On 2021-02-26, Dr. Love updated the [dm2200 example](https://github.com/THOMASELOVE/500-data/tree/master/dm2200) which is the focus of some of today's pre-recorded lecture.
 
