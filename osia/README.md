@@ -44,7 +44,7 @@ For each OSIA study, a "second reviewer" will be assigned according to the date 
 
 - The "second reviewer" for each study will provide 3-5 minutes of commentary on the study after the main reviewer's presentation. You are expected to present 2-4 slides as second reviewer. 
 
-## Presentation Submission Details 
+## Presentation Submission Details (subject to change)
 
 ### for the Primary Reviewer
 
