@@ -6,7 +6,7 @@ for everything | for deadlines | expectations | zoom information | for downloads
 
 ## Materials for Today's Class
 
-- Today's class will be held from **9:30 AM to 10:45 AM**. Dr. Love will open Zoom 10 minutes before and stay on until we run out of questions after the main session.
+- Today's class will be held from **9:30 AM to 10:50 AM**. Dr. Love will open Zoom 10 minutes before and stay on until we run out of questions after the main session.
 - Before class, please watch the pre-recorded lecture using the link on our shared Google Drive, when it becomes available.
 - The Slides for Class 05 are [available in PDF](https://github.com/THOMASELOVE/500-2021/blob/master/classes/class05/500_2021_slides05.pdf), as well as in [R Markdown](https://github.com/THOMASELOVE/500-2021/blob/master/classes/class05/500_2021_slides05.Rmd).
     - The pre-recorded lecture slides are the first 41 in this deck. 
@@ -16,11 +16,17 @@ for everything | for deadlines | expectations | zoom information | for downloads
 
 ## Announcements
 
-1. On 2021-02-25, Wyatt and I updated [the toy example](https://github.com/THOMASELOVE/500-data/tree/master/toy2021) and [the lindner example](https://github.com/THOMASELOVE/500-data/tree/master/lindner) to deal with the changes caused by an update to the cobalt package, mostly. I assume you got my email - if not, please let us know.
-2. On 2021-02-26, I posted to the Shared Google Drive my comments on Paul Rosenbaum's *Observation and Experiment* including comments on all chapters other than the ones where you'll be writing [essays](https://github.com/THOMASELOVE/500-2021/blob/master/essays/README.md), starting with the Chapter 7 essay due on 2021-03-18. 
-3. On 2021-02-26, Dr. Love updated the [dm2200 example](https://github.com/THOMASELOVE/500-data/tree/master/dm2200) which is the focus of some of today's pre-recorded lecture.
-4. Next week, the pre-recorded lecture will focus on what can be learned from Don Rubin's 2001 paper entitled [Using Propensity Scores to help Design Observational Studies: Application to the Tobacco Litigation](https://github.com/THOMASELOVE/500-2021/blob/master/sources/articles/Rubin%202001%20Tobacco%20Litigation%20article.pdf).
-. Please skim or read the paper before you watch the Class 6 lecture.
+1. Remember that your [Project 1 Proposal](https://github.com/THOMASELOVE/500-2021/blob/master/project/01_proposal.md) is due on **Tuesday** 2021-03-09 at 9 PM.
+2. On 2021-02-25, Wyatt and I updated [the toy example](https://github.com/THOMASELOVE/500-data/tree/master/toy2021) and [the lindner example](https://github.com/THOMASELOVE/500-data/tree/master/lindner) to deal with the changes caused by an update to the cobalt package, mostly. I assume you got my email - if not, please let us know.
+3. On 2021-02-26, I posted to the Shared Google Drive my comments on Paul Rosenbaum's *Observation and Experiment* including comments on all chapters other than the ones where you'll be writing [essays](https://github.com/THOMASELOVE/500-2021/blob/master/essays/README.md), starting with the Chapter 7 essay due on 2021-03-18. 
+4. On 2021-02-26, Dr. Love updated the [dm2200 example](https://github.com/THOMASELOVE/500-data/tree/master/dm2200) which is the focus of some of today's pre-recorded lecture.
+
+## Next Week
+
+For Class 06 on 2021-03-11, we will again start at 9:30 AM. 
+
+- The Class 06 pre-recorded lecture will focus on what can be learned from Don Rubin's 2001 paper entitled [Using Propensity Scores to help Design Observational Studies: Application to the Tobacco Litigation](https://github.com/THOMASELOVE/500-2021/blob/master/sources/articles/Rubin%202001%20Tobacco%20Litigation%20article.pdf).
+    - Please skim or read [the Rubin 2001 paper](https://github.com/THOMASELOVE/500-2021/blob/master/sources/articles/Rubin%202001%20Tobacco%20Litigation%20article.pdf) before you watch the Class 6 lecture.
 
 ## Making a Plan for OSIA
 
