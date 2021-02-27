@@ -13,6 +13,7 @@ Julia Payne | [kwak_2020](https://github.com/THOMASELOVE/500-2021/blob/master/os
 Lindsay Petrenchik | [montano_2019](https://github.com/THOMASELOVE/500-2021/blob/master/osia/claims/pdf/montano_2019.pdf) | Montano MA et al. Differences in sexually transmitted infection risk comparing preexposure prophylaxis users and propensity score matched historical controls in a clinic setting. *AIDS* 2019; 33: 1773-1780. DOI: [10.1097/QAD.0000000000002281](https://doi.org/10.1097/QAD.0000000000002281) **PDF includes supplementary material**.
 Pamela Robinson | [josephat_2015](https://github.com/THOMASELOVE/500-2021/blob/master/osia/claims/pdf/josephat_2015.pdf) | Josephat P et al. Analysis of Effects of Agriculture Intervention Using Propensity Score Matching. *J Agricultural Studies* 2015; 3(2): 49-60. DOI: [10.5296/jas.v3i2.7339](https://doi.org/10.5296/jas.v3i2.7339)
 Matt Siuba | [admon_2019](https://github.com/THOMASELOVE/500-2021/blob/master/osia/claims/pdf/admon_2019.pdf) | Admon AJ et al. Evaluating a Novel Clinical Trial Using Existing Observational Data. *Annals Am Thorac Soc* 2019; 16(8): 998-1007. DOI: [10.1513/AnnalsATS.201903-241OC](https://doi.org/10.1513/AnnalsATS.201903-241OC) **PDF includes supplementary material**.
+Anastasia Vassiliou | [branigan_2020](https://github.com/THOMASELOVE/500-2021/blob/master/osia/claims/pdf/branigan_2020.pdf) | Branigan GL et al. Association Between Hormone-Modulating Breast Cancer Therapies and Incidence of Neurodegenerative Outcomes for Women With Breast Cancer. *JAMA Network Open* 2020; 3(3): e201541. DOI: [10.1001/jamanetworkopen.2020.1541](https://doi.org/10.1001/jamanetworkopen.2020.1541).
 Long Vu | [waibel_2018](https://github.com/THOMASELOVE/500-2021/blob/master/osia/claims/pdf/waibel_2018.pdf) | Waibel S et al. Occupational status benefits of studying abroad and the role of occupational specificity – A propensity score matching approach. *Social Science Research* 2018; 74: 45-61. DOI: [10.1016/j.ssresearch.2018.05.006](https://doi.org/10.1016/j.ssresearch.2018.05.006) **PDF includes supplementary material**.
 Jakob Woerner | [freedberg_2020](https://github.com/THOMASELOVE/500-2021/blob/master/osia/claims/pdf/freedberg_2020.pdf) | Freedberg DE et al. Famotidine Use Is Associated With Improved Clinical Outcomes in Hospitalized COVID-19 Patients: A Propensity Score Matched Retrospective Cohort Study. *Gastroenterology* 2020; 159: 1129-1131. DOI: [10.1053/j.gastro.2020.05.053](https://doi.org/10.1053/j.gastro.2020.05.053) **PDF includes supplementary material**.
 
@@ -20,4 +21,4 @@ Jakob Woerner | [freedberg_2020](https://github.com/THOMASELOVE/500-2021/blob/ma
 
 - Amr Mahran
 - Rod Nault
-- Anastasia Vassiliou
+
