@@ -30,6 +30,7 @@ For Class 06 on 2021-03-11, we will again start at 9:30 AM.
 
 - The Class 06 pre-recorded lecture will focus on what can be learned from Don Rubin's 2001 paper entitled [Using Propensity Scores to help Design Observational Studies: Application to the Tobacco Litigation](https://github.com/THOMASELOVE/500-2021/blob/master/sources/articles/Rubin%202001%20Tobacco%20Litigation%20article.pdf).
     - Please skim or read [the Rubin 2001 paper](https://github.com/THOMASELOVE/500-2021/blob/master/sources/articles/Rubin%202001%20Tobacco%20Litigation%20article.pdf) before you watch the Class 6 lecture.
+    - We'll also be looking at the [Right Heart Catheterization example](https://github.com/THOMASELOVE/500-data/tree/master/rhc) in more detail, and this is the last of our R examples for this term.
 
 ## Making a Plan for OSIA
 
