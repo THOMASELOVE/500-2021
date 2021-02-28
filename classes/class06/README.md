@@ -16,4 +16,7 @@ for everything | for deadlines | expectations | zoom information | for downloads
     - We'll also be looking at the [Right Heart Catheterization example](https://github.com/THOMASELOVE/500-data/tree/master/rhc) in more detail, and this is the last of our R examples for this term.
 - As always, Dr. Love will be available for the 10 minutes before and 15 minutes after this session for informal "office hours". If you need help with anything, please email us!
 
-## More to come.
+## Key References for Today
+
+- Connors Alfred F et al. 1996 [The Effectiveness of Right Heart Catheterization in the Initial Care of Critically Ill Patients](https://github.com/THOMASELOVE/500-2021/blob/master/sources/articles/Connors%20et%20al%201996%20JAMA%20The%20Right%20Heart%20Catheterization%20Study.pdf) *Journal of the American Medical Association*, 1996; 276: 889-897.
+- Rubin Donald B 2001 [Using Propensity Scores to help Design Observational Studies: Application to the Tobacco Litigation](https://github.com/THOMASELOVE/500-2021/blob/master/sources/articles/Rubin%202001%20Tobacco%20Litigation%20article.pdf) *Health Services & Outcomes Research Methodology* 2001: 2: 169-188.
