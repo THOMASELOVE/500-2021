@@ -20,6 +20,5 @@ Jakob Woerner | [freedberg_2020](https://github.com/THOMASELOVE/500-2021/blob/ma
 
 ### Not Yet Submitted
 
-- 
 - Rod Nault
 
