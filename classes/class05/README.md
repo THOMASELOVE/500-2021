@@ -12,6 +12,9 @@ for everything | for deadlines | expectations | zoom information | for downloads
     - The pre-recorded lecture slides are the first 41 in this deck. 
     - The deck continues with additional material that we'll discuss in our class session.
 - The [dm2200 example](https://github.com/THOMASELOVE/500-data/tree/master/dm2200) demonstrates the use of several R packages to develop causal effect estimates using various types of propensity score matching. This example is a part of today's pre-recorded material, but I'm hopeful you'll be able to dip into it on your own as you need code to accomplish various types of propensity matching.
+    - Noah Greifer's [MatchIt: Getting Started](https://cran.r-project.org/web/packages/MatchIt/vignettes/MatchIt.html) vignette
+    - Noah Greifer's [Covariate Balance Tables and Plots: A Guide to the cobalt Package](https://cran.r-project.org/web/packages/cobalt/vignettes/cobalt.html) vignette
+    - Jasjeet Sekhon's [Multivariate and Propensity Score Matching Software for Causal Inference](http://sekhon.berkeley.edu/matching/) describes the Matching package.
 - As always, Dr. Love will be available for the 10 minutes before and 15 minutes after this session for informal "office hours". If you need help with anything, please email us!
 
 ## Announcements
@@ -32,7 +35,7 @@ For Class 06 on 2021-03-11, we will again start at 9:30 AM.
 
 Details to come.
 
-## Sources I'll refer to in today's discusssions or slides
+## Additional Sources related to today's discusssions or slides
 
 - Austin Peter C and Mamdani Muhammad M 2006 [A comparison of propensity score methods: A case study estimating the effectiveness of post-AMI statin use](https://github.com/THOMASELOVE/500-2021/blob/master/sources/articles/Austin%20and%20Mamdani%202006%20case%20study.pdf) *Statistics in Medicine* 2006; 25: 2084-2106.
 - Austin Peter C 2009 [Balance diagnostics for comparing the distribution of baseline covariates between treatment groups in propensity-score matched samples](https://github.com/THOMASELOVE/500-2021/blob/master/sources/articles/Austin%202009%20Balance%20Diagnostics%20after%20PS%20matching.pdf) *Statistics in Medicine* 2009; 28: 3083-3107.
