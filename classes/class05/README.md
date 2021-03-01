@@ -34,7 +34,17 @@ For Class 06 on 2021-03-11, we will again start at 9:30 AM.
 
 ## Making a Plan for OSIA
 
-Details to come.
+The schedule will be as follows:
+
+- We will have **five** OSIA articles presented in Class 08 (2021-03-25), when we will run class from 8:30 AM to 11 AM.
+    - Each presentation will involve a lead presenter (first reader) speaking for 12-15 minutes
+    - This will be followed by a second reader speaking for 3-4 minutes
+    - and then a little Q and A, so that we'll wind up with about 25 minutes per article
+    - We will take a 10-minute break after the third OSIA is presented.
+- We will have **three** OSIA articles presented in each of the next three classes (09, 10 and 11), when class will run from 9:30 AM to 11 PM.
+    - Each presentation will involve a lead presenter (first reader) speaking for a shorter time: just 10-12 minutes
+    - This will be followed by a second reader speaking for a shorter time, too: 2-3 minutes
+    - and then a little Q and A, so that we'll wind up with about 20 minutes per article
 
 ## Additional Sources related to today's discusssions or slides
 
