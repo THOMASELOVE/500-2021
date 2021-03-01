@@ -42,9 +42,8 @@ The schedule will be as follows:
     - and then a little Q and A, so that we'll wind up with about 25 minutes per article
     - We will take a 10-minute break after the third OSIA is presented.
 - We will have **three** OSIA articles presented in each of the next three classes (09, 10 and 11), when class will run from 9:30 AM to 11 PM.
-    - Each presentation will involve a lead presenter (first reader) speaking for a shorter time: just 10-12 minutes
-    - This will be followed by a second reader speaking for a shorter time, too: 2-3 minutes
-    - and then a little Q and A, so that we'll wind up with about 20 minutes per article
+    - I expect we will ask the first reviewers of most (if not all) of these nine articles to pre-record the primary (first reviewer) OSIA presentations. 
+    - We will do all of the second reader presentations and have Q&A live.
 
 ## Additional Sources related to today's discusssions or slides
 
