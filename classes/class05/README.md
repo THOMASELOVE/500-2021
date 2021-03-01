@@ -17,6 +17,8 @@ for everything | for deadlines | expectations | zoom information | for downloads
     - Jasjeet Sekhon's [Multivariate and Propensity Score Matching Software for Causal Inference](http://sekhon.berkeley.edu/matching/) describes the Matching package.
 - As always, Dr. Love will be available for the 10 minutes before and 15 minutes after this session for informal "office hours". If you need help with anything, please email us!
 
+![](https://github.com/THOMASELOVE/500-2021/blob/master/classes/class05/figures/dahly_tw.png)
+
 ## Announcements
 
 1. Remember that your [Project 1 Proposal](https://github.com/THOMASELOVE/500-2021/blob/master/project/01_proposal.md) is due on **Tuesday** 2021-03-09 at 9 PM.
