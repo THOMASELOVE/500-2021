@@ -23,6 +23,9 @@ for everything | for deadlines | expectations | zoom information | for downloads
 2. On 2021-02-25, Wyatt and I updated [the toy example](https://github.com/THOMASELOVE/500-data/tree/master/toy2021) and [the lindner example](https://github.com/THOMASELOVE/500-data/tree/master/lindner) to deal with the changes caused by an update to the cobalt package, mostly. I assume you got my email - if not, please let us know.
 3. On 2021-02-26, I posted to the Shared Google Drive my comments on Paul Rosenbaum's *Observation and Experiment* including comments on all chapters other than the ones where you'll be writing [essays](https://github.com/THOMASELOVE/500-2021/blob/master/essays/README.md), starting with the Chapter 7 essay due on 2021-03-18. 
 4. On 2021-02-28, Dr. Love updated the [dm2200 example](https://github.com/THOMASELOVE/500-data/tree/master/dm2200) which is included in today's pre-recorded lecture.
+5. Carl Bergstrom at the University of Washington recently developed a 50 minute lecture (now on YouTube) entitled [Avoiding the Pitfalls of Selection Bias](https://www.youtube.com/watch?v=eSVg_DqPkNM) which may of some interest to you.
+6. On 2021-03-24, Alison Hill will be speaking on [Making R Markdown work better for you](https://www.meetup.com/Cleveland-UseR-Group/events/274520287) for the Cleveland R Users Group.
+
 
 ## Next Week
 
