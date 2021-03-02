@@ -22,7 +22,7 @@ Order | Discussion | Paper | First Reader | Second Reader |
 10 | TBD | [Naegelin_2019](https://github.com/THOMASELOVE/500-2021/blob/master/osia/claims/pdf/naegelin_2019.pdf) | Carolyn Goldschmidt | - 
 11 | TBD | [Preisser_2020](https://github.com/THOMASELOVE/500-2021/blob/master/osia/claims/pdf/preisser_2020.pdf) | Amr Mahran | -
 12 | TBD | [Retelsdorf_2011](https://github.com/THOMASELOVE/500-2021/blob/master/osia/claims/pdf/retelsdorf_2011.pdf) | Ritu Narahari | -
-13 | TBD | [Roze 2017](https://github.com/THOMASELOVE/500-2021/blob/master/osia/claims/pdf/roze_2017.pdf) | Stephanie Merlino Barr | -  
+13 | TBD | [Roze_2017](https://github.com/THOMASELOVE/500-2021/blob/master/osia/claims/pdf/roze_2017.pdf) | Stephanie Merlino Barr | -  
 14 | TBD | [Waibel_2018](https://github.com/THOMASELOVE/500-2021/blob/master/osia/claims/pdf/waibel_2018.pdf) | Long Vu | -
 
 ## Detailed References
