@@ -2,10 +2,12 @@
 
 This page identifies the 14 "claimed" OSIA studies in Spring 2021.
 
-- The [Abstracts for the studies are provided here](https://github.com/THOMASELOVE/500-2021/blob/master/osia/claims/pdf/abstracts_osia_2021.pdf). They are arranged by group, and then in alphabetical order of the first author.
-- All Second Reader decisions will be made before our next class, on 2021-03-11.
-    - The paper you submitted as First Reader has been assigned to one of three groups. You will serve as Second Reader for a paper in one of the other two groups.
-    - Please review the abstracts for the papers in the other two groups, and then visit the Google Form at http://bit.ly/500-2021-osia-survey to express your preferences. You'll need to log into Google via CWRU to fill out the form.
+- The [Abstracts for the studies are provided here](https://github.com/THOMASELOVE/500-2021/blob/master/osia/claims/pdf/abstracts_osia_2021.pdf). They are arranged first by group (1, 2 or 3), and then in alphabetical order of the first author.
+- The paper you submitted as First Reader has been assigned to one of three groups. You will serve as Second Reader for a paper in one of the other two groups.
+
+## Your Task Now
+
+- Please review the abstracts for the papers in the other two groups, and then visit the Google Form at http://bit.ly/500-2021-osia-survey to express your preferences by 9 PM on Tuesday 2021-03-09 (note that this is the same time that your Project 1 Proposal is due.) You'll need to log into Google via CWRU to fill out the form.
 
 ## Group 1 (papers to be discussed in Class 08: 2021-03-25)
 
