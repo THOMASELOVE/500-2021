@@ -6,7 +6,7 @@ This page identifies the 14 "claimed" OSIA studies in Spring 2021.
 
 - The [Abstracts for the studies are provided here](https://github.com/THOMASELOVE/500-2021/blob/master/osia/claims/pdf/abstracts_osia_2021.pdf).
 
-## Discussion Order
+## Abstract Order
 
 Order | Discussion | Paper | First Reader | Second Reader | 
 --: | :----------: | :-------------: | :----------------: | :-----------:
