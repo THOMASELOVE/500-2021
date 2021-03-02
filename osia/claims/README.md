@@ -2,6 +2,12 @@
 
 This page identifies the 14 "claimed" OSIA studies in Spring 2021.
 
+## Abstracts
+
+- The [Abstracts for the studies are provided here](https://github.com/THOMASELOVE/500-2021/blob/master/osia/claims/pdf/abstracts_osia_2021.pdf).
+
+## Discussion Order
+
 Order | Discussion | Paper | First Reader | Second Reader | 
 --: | :----------: | :-------------: | :----------------: | :-----------:
 1 | TBD | [Admon_2019](https://github.com/THOMASELOVE/500-2021/blob/master/osia/claims/pdf/admon_2019.pdf) | Matt Siuba | -
@@ -19,7 +25,7 @@ Order | Discussion | Paper | First Reader | Second Reader |
 13 | TBD | [Roze 2017](https://github.com/THOMASELOVE/500-2021/blob/master/osia/claims/pdf/roze_2017.pdf) | Stephanie Merlino Barr | -  
 14 | TBD | [Waibel_2018](https://github.com/THOMASELOVE/500-2021/blob/master/osia/claims/pdf/waibel_2018.pdf) | Long Vu | -
 
-
+## Detailed References
 
 1. Admon AJ et al. [Evaluating a Novel Clinical Trial Using Existing Observational Data](https://github.com/THOMASELOVE/500-2021/blob/master/osia/claims/pdf/admon_2019.pdf). *Annals Am Thorac Soc* 2019; 16(8): 998-1007. DOI: [10.1513/AnnalsATS.201903-241OC](https://doi.org/10.1513/AnnalsATS.201903-241OC) *PDF includes supplementary material*.
 2. Becher T et al. [Brown adipose tissue is associated with cardiometabolic health](https://github.com/THOMASELOVE/500-2021/blob/master/osia/claims/pdf/becher_2021.pdf). *Nature Medicine* 2021; 27: 58-65. DOI: [10.1038/s41591-020-1126-7](https://doi.org/10.1038/s41591-020-1126-7).
