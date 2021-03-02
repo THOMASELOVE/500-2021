@@ -2,10 +2,17 @@
 
 This page identifies "claimed" OSIA studies in Spring 2021.
 
+1. Roze J-C et al. [Nutritional strategies and gut microbiota composition as risk factors for necrotizing enterocolitis in very-preterm infants](https://github.com/THOMASELOVE/500-2021/blob/master/osia/claims/pdf/roze_2017.pdf). *Amer J Clin Nutrition* 2017; 106: 821-830. DOI: [10.3945/ajcn.117.152967.](https://doi.org/10.3945/ajcn.117.152967.) **PDF includes supplementary material**.
+2. Naegelin Y et al. [Association of Rituximab Treatment With Disability Progression Among Patients With Secondary Progressive Multiple Sclerosis](https://github.com/THOMASELOVE/500-2021/blob/master/osia/claims/pdf/naegelin_2019.pdf). *JAMA Neurology* 2019; 76(3): 274-281. DOI: [10.1001/jamaneurol.2018.4239](https://doi.org/10.1001/jamaneurol.2018.4239)
+
+
+Paper | First Reader | Second Reader | Schedule 
+:----------: | :-------------: | :----------------: | :-----------:
+[Roze 2017](https://github.com/THOMASELOVE/500-2021/blob/master/osia/claims/pdf/roze_2017.pdf) | Stephanie Merlino Barr | - | TBD
+[Naegelin 2019](https://github.com/THOMASELOVE/500-2021/blob/master/osia/claims/pdf/naegelin_2019.pdf) | Carolyn Goldschmidt | - | TBD
+
 Claimed By | Link | Study Details
 ---------------------: | ----- | -----------------------------------------------------------------------------------
-Stephanie Merlino Barr | [roze_2017](https://github.com/THOMASELOVE/500-2021/blob/master/osia/claims/pdf/roze_2017.pdf) | Roze J-C et al. Nutritional strategies and gut microbiota composition as risk factors for necrotizing enterocolitis in very-preterm infants. *Amer J Clin Nutrition* 2017; 106: 821-830. DOI: [10.3945/ajcn.117.152967.](https://doi.org/10.3945/ajcn.117.152967.) **PDF includes supplementary material**.
-Carolyn Goldschmidt | [naegelin_2019](https://github.com/THOMASELOVE/500-2021/blob/master/osia/claims/pdf/naegelin_2019.pdf) | Naegelin Y et al. Association of Rituximab Treatment With Disability Progression Among Patients With Secondary Progressive Multiple Sclerosis. *JAMA Neurology* 2019; 76(3): 274-281. DOI: [10.1001/jamaneurol.2018.4239](https://doi.org/10.1001/jamaneurol.2018.4239)
 David Gletsu | [eshleman_2014](https://github.com/THOMASELOVE/500-2021/blob/master/osia/claims/pdf/eshleman_2014.pdf) | Eshleman JD Guo P Do Big 4 Auditors Provide Higher Audit Quality after Controlling for the Endogenous Choice of Auditor? *Auditing: A Journal of Practice & Theory* 2014; 33(4): 197-219. DOI: [10.2308/ajpt-50792](https://doi.org/10.2308/ajpt-50792)
 Caitlyn Grubbs | [mcisaac_2017](https://github.com/THOMASELOVE/500-2021/blob/master/osia/claims/pdf/mcisaac_2017.pdf) | McIsaac DI et al. Association of delay of urgent or emergency surgery with mortality and use of health care resources: a propensity score–matched observational cohort study. *CMAJ* 2017; 189: E905-912. DOI: [10.1503/cmaj.160576](https://doi.org/10.1503/cmaj.160576) **PDF includes supplementary material**.
 Amr Mahran | [preisser_2020](https://github.com/THOMASELOVE/500-2021/blob/master/osia/claims/pdf/preisser_2020.pdf) | Preisser F et al. Effect of Extended Pelvic Lymph Node Dissection on Oncologic Outcomes in Patients with D’Amico Intermediate and High Risk Prostate Cancer Treated with Radical Prostatectomy: A Multi-Institutional Study. *J Urology* 2020; 203: 338-343. DOI: [10.1097/JU.0000000000000504](https://doi.org/10.1097/JU.0000000000000504) **PDF includes supplementary material**. 
