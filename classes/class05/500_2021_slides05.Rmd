@@ -347,6 +347,7 @@ include_graphics("figures/hansen_8.png")
   - Making Fair Judgments about Causation
 - Rosenbaum Chapters 5 and 6
 - Planning the OSIA presentations
+- Lab 3 and Project 1 Proposals both due next week
 
 # Questions about the Pre-Recorded Material or the `dm2200` example?
 
@@ -406,8 +407,23 @@ include_graphics("figures/dawson_8.png")
 
 ## We'll discuss
 
-- Your questions about Rosenbaum Chapters 5 and 6
+- Project Proposal due Tuesday to Canvas (9 PM)
+- Rosenbaum Chapters 5 and 6
 - Planning for OSIA work
-    - Identifying second readers
-    - How to organize the sessions
+    - Identifying second readers (Survey due Tues 9 PM)
+    - How to organize the sessions after Class 08
+- Lab 3 setup (due next time - see next slide)
 
+## Lab 3
+
+In Lab 3, working with data I've provided, you will:
+
+1. Produce unadjusted estimates of treatment effects on two binary outcomes.
+2. Fit a propensity score model
+3. Evaluate Rubin's Rules 1 and 2 (again, more discussion on this next week)
+4. Use direct adjustment for the linear propensity score
+5. Use subclassification on the propensity score
+6. Perform a 1:1 greedy match without replacement
+7. Compare the estimates from tasks 1, 4, 5 and 6.
+
+Lab 4 is about weighting and double-robust estimates.
