@@ -22,14 +22,15 @@ for everything | for deadlines | expectations | zoom information | for downloads
 ## Announcements
 
 1. Remember that your [Project 1 Proposal](https://github.com/THOMASELOVE/500-2021/blob/master/project/01_proposal.md) is due on **Tuesday** 2021-03-09 at 9 PM.
-2. On 2021-02-25, Wyatt and I updated [the toy example](https://github.com/THOMASELOVE/500-data/tree/master/toy2021) and [the lindner example](https://github.com/THOMASELOVE/500-data/tree/master/lindner) to deal with the changes caused by an update to the cobalt package, mostly. I assume you got my email - if not, please let us know.
-3. On 2021-02-26, I posted to the Shared Google Drive my comments on Paul Rosenbaum's *Observation and Experiment* including comments on all chapters other than the ones where you'll be writing [essays](https://github.com/THOMASELOVE/500-2021/blob/master/essays/README.md), starting with the Chapter 7 essay due on 2021-03-18. 
-4. On 2021-02-28, Dr. Love updated the [dm2200 example](https://github.com/THOMASELOVE/500-data/tree/master/dm2200) which is included in today's pre-recorded lecture.
-5. Carl Bergstrom at the University of Washington recently developed a 50 minute lecture (now on YouTube) entitled [Avoiding the Pitfalls of Selection Bias](https://www.youtube.com/watch?v=eSVg_DqPkNM) which may of some interest to you.
-6. On 2021-03-24, Alison Hill will be speaking on [Making R Markdown work better for you](https://www.meetup.com/Cleveland-UseR-Group/events/274520287) for the Cleveland R Users Group.
-7. [The Climate Crisis: Addressing Impacts on Clinical Practice in the Great Lakes Region](https://www.eventbrite.com/e/the-climate-crisis-addressing-impacts-on-clinical-practice-great-lakes-tickets-138287576865) is a half-day symposium on 2021-03-10 (8 AM to noon) targeting health care professionals, clinicians of all types, students and trainees. From the registration page, "this unique conference will educate and inspire health professionals and students about the health impacts of climate change. The symposium will not only educate participants but inspire motivation and provide the tools to develop solutions to counteract the health effects of climate change."
-8. [RStudio has several internships available this summer](https://rstudio.com/about/job-posting/?gh_jid=4387673003). Not everyone is a good fit, but maybe you are?
-9. I've placed a paper on our Shared Google Drive that I hope we'll discuss later in the semester. Here's the citation:
+2. Also on Tuesday at 9 PM, you'll need to have completed a short Google Form to express your second reader preferences for OSIA. We'll talk about this below, and [the details are here](https://github.com/THOMASELOVE/500-2021/tree/master/osia/claims).
+3. On 2021-02-25, Wyatt and I updated [the toy example](https://github.com/THOMASELOVE/500-data/tree/master/toy2021) and [the lindner example](https://github.com/THOMASELOVE/500-data/tree/master/lindner) to deal with the changes caused by an update to the cobalt package, mostly. I assume you got my email - if not, please let us know.
+4. On 2021-02-26, I posted to the Shared Google Drive my comments on Paul Rosenbaum's *Observation and Experiment* including comments on all chapters other than the ones where you'll be writing [essays](https://github.com/THOMASELOVE/500-2021/blob/master/essays/README.md), starting with the Chapter 7 essay due on 2021-03-18. 
+5. On 2021-02-28, Dr. Love updated the [dm2200 example](https://github.com/THOMASELOVE/500-data/tree/master/dm2200) which is included in today's pre-recorded lecture.
+6. Carl Bergstrom at the University of Washington recently developed a 50 minute lecture (now on YouTube) entitled [Avoiding the Pitfalls of Selection Bias](https://www.youtube.com/watch?v=eSVg_DqPkNM) which may of some interest to you.
+7. On 2021-03-24, Alison Hill will be speaking on [Making R Markdown work better for you](https://www.meetup.com/Cleveland-UseR-Group/events/274520287) for the Cleveland R Users Group.
+8. [The Climate Crisis: Addressing Impacts on Clinical Practice in the Great Lakes Region](https://www.eventbrite.com/e/the-climate-crisis-addressing-impacts-on-clinical-practice-great-lakes-tickets-138287576865) is a half-day symposium on 2021-03-10 (8 AM to noon) targeting health care professionals, clinicians of all types, students and trainees. From the registration page, "this unique conference will educate and inspire health professionals and students about the health impacts of climate change. The symposium will not only educate participants but inspire motivation and provide the tools to develop solutions to counteract the health effects of climate change."
+9. [RStudio has several internships available this summer](https://rstudio.com/about/job-posting/?gh_jid=4387673003). Not everyone is a good fit, but maybe you are?
+10. I've placed a paper on our Shared Google Drive that I hope we'll discuss later in the semester. Here's the citation:
 
 - Webster-Clark Michael et al. 2020 Using propensity scores to estimate effects of treatment initiation decisions: State of the science. *Statistics in Medicine*. 2020; 1–18. DOI: [10.1002/sim.8866](https://onlinelibrary.wiley.com/doi/full/10.1002/sim.8866)
 
@@ -44,16 +45,16 @@ For Class 06 on 2021-03-11, we will again start at 9:30 AM.
 
 ## Making a Plan for OSIA
 
-The schedule will be as follows:
+Please visit [the OSIA claims page](https://github.com/THOMASELOVE/500-2021/tree/master/osia/claims) for more details.
 
+- The main task you have now is to review the abstracts for the other selected studies, and then fill out a Google Form specifying your preferences as second reader. This Form is due on Tuesday at 9 PM, at the same time as your Project 1 Proposal.
 - We will have **five** OSIA articles presented in Class 08 (2021-03-25), when we will run class from 8:30 AM to 11 AM.
     - Each presentation will involve a lead presenter (first reader) speaking for 12-15 minutes
     - This will be followed by a second reader speaking for 3-4 minutes
     - and then a little Q and A, so that we'll wind up with about 25 minutes per article
     - We will take a 10-minute break after the third OSIA is presented.
 - We will have **three** OSIA articles presented in each of the next three classes (09, 10 and 11), when class will run from 9:30 AM to 11 PM.
-    - I expect we will ask the first reviewers of most (if not all) of these nine articles to pre-record the primary (first reviewer) OSIA presentations. 
-    - We will do all of the second reader presentations and have Q&A live.
+    - These presentations will be a little shorter (12 minutes for 1st reader and 2-3 minutes for 2nd reader and 20 minutes total) and we may ask the first readers to pre-record their presentations, but **we'll discuss that today**. We will definitely do all of the second reader presentations and have Q&A live.
 
 ## Additional Sources related to today's discusssions or slides
 
