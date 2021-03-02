@@ -82,9 +82,9 @@ Now use the `twang` package to create both the propensity scores (using
 generalized boosted modeling) and the ATT weights. Compare your results
 from Tasks 1-4 to your result here in terms of:
 
--   1.  effective sample size
+-   effective sample size
 
--   1.  balance as described by the Love plot and standardized
+-   balance as described by the Love plot and standardized
         differences
 
 ## Task 6.
