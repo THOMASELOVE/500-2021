@@ -47,7 +47,7 @@ Note that I haven't yet settled on the order for these papers during Class 10 or
 
 Group | Session(s) | Paper | First Reader | Second Reader | 
 --: | :----------: | :-------------: | :----------------: | :-----------:
-3 | Class 10 or 11 | [Admon_2019](https://github.com/THOMASELOVE/500-2021/blob/master/osia/claims/pdf/admon_2019.pdf) | Matt Siuba | -
+3 | Class 11 | [Admon_2019](https://github.com/THOMASELOVE/500-2021/blob/master/osia/claims/pdf/admon_2019.pdf) | Matt Siuba | -
 3 | Class 10 or 11 | [Becher_2021](https://github.com/THOMASELOVE/500-2021/blob/master/osia/claims/pdf/becher_2021.pdf) | Rod Nault | -
 3 | Class 10 or 11 | [Freedberg_2020](https://github.com/THOMASELOVE/500-2021/blob/master/osia/claims/pdf/freedberg_2020.pdf) | Jakob Woerner | -
 3 | Class 10 or 11 | [Preisser_2020](https://github.com/THOMASELOVE/500-2021/blob/master/osia/claims/pdf/preisser_2020.pdf) | Amr Mahran | -
