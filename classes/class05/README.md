@@ -22,7 +22,7 @@ for everything | for deadlines | expectations | zoom information | for downloads
 ## Announcements
 
 1. Remember that your [Project 1 Proposal](https://github.com/THOMASELOVE/500-2021/blob/master/project/01_proposal.md) is due on **Tuesday** 2021-03-09 at 9 PM.
-2. Also on Tuesday at 9 PM, you'll need to have completed a short Google Form to express your second reader preferences for OSIA. We'll talk about this below, and [the details are here](https://github.com/THOMASELOVE/500-2021/tree/master/osia/claims).
+2. Also on Tuesday 2021-03-09 at 9 PM, you'll need to have completed a short Google Form to express your second reader preferences for OSIA. We'll talk about this below, and [the details are here](https://github.com/THOMASELOVE/500-2021/tree/master/osia/claims).
 3. On 2021-02-25, Wyatt and I updated [the toy example](https://github.com/THOMASELOVE/500-data/tree/master/toy2021) and [the lindner example](https://github.com/THOMASELOVE/500-data/tree/master/lindner) to deal with the changes caused by an update to the cobalt package, mostly. I assume you got my email - if not, please let us know.
 4. On 2021-02-26, I posted to the Shared Google Drive my comments on Paul Rosenbaum's *Observation and Experiment* including comments on all chapters other than the ones where you'll be writing [essays](https://github.com/THOMASELOVE/500-2021/blob/master/essays/README.md), starting with the Chapter 7 essay due on 2021-03-18. 
 5. On 2021-02-28, Dr. Love updated the [dm2200 example](https://github.com/THOMASELOVE/500-data/tree/master/dm2200) which is included in today's pre-recorded lecture.
@@ -47,7 +47,7 @@ For Class 06 on 2021-03-11, we will again start at 9:30 AM.
 
 Please visit [the OSIA claims page](https://github.com/THOMASELOVE/500-2021/tree/master/osia/claims) for more details.
 
-- The main task you have now is to review the abstracts for the other selected studies, and then fill out a Google Form specifying your preferences as second reader. This Form is due on Tuesday at 9 PM, at the same time as your Project 1 Proposal.
+- The main task you have now is to review the abstracts for the other selected studies, and then fill out a Google Form specifying your preferences as second reader. This Form is due on Tuesday 2021-03-09 at 9 PM, at the same time as your Project 1 Proposal.
 - We will have **five** OSIA articles presented in Class 08 (2021-03-25), when we will run class from 8:30 AM to 11 AM.
     - Each presentation will involve a lead presenter (first reader) speaking for 12-15 minutes
     - This will be followed by a second reader speaking for 3-4 minutes
