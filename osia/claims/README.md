@@ -43,16 +43,16 @@ Group | Session | Paper | First Reader | Second Reader |
 
 ## Group 3 (papers to be discussed in Classes 10 and 11: 2021-04-08 and 2021-04-15)
 
-Note that I haven't yet settled on the order for these papers during Class 10 or 11. This will depend in part on who the second readers are.
+The papers here are now assigned to either Class 10 or 11. The order each day will depend in part on who the second readers are.
 
 Group | Session(s) | Paper | First Reader | Second Reader | 
 --: | :----------: | :-------------: | :----------------: | :-----------:
 3 | Class 11 | [Admon_2019](https://github.com/THOMASELOVE/500-2021/blob/master/osia/claims/pdf/admon_2019.pdf) | Matt Siuba | -
-3 | Class 10 or 11 | [Becher_2021](https://github.com/THOMASELOVE/500-2021/blob/master/osia/claims/pdf/becher_2021.pdf) | Rod Nault | -
-3 | Class 10 or 11 | [Freedberg_2020](https://github.com/THOMASELOVE/500-2021/blob/master/osia/claims/pdf/freedberg_2020.pdf) | Jakob Woerner | -
-3 | Class 10 or 11 | [Preisser_2020](https://github.com/THOMASELOVE/500-2021/blob/master/osia/claims/pdf/preisser_2020.pdf) | Amr Mahran | -
-3 | Class 10 or 11 | [Retelsdorf_2011](https://github.com/THOMASELOVE/500-2021/blob/master/osia/claims/pdf/retelsdorf_2011.pdf) | Ritu Narahari | -
-3 | Class 10 or 11 | [Roze_2017](https://github.com/THOMASELOVE/500-2021/blob/master/osia/claims/pdf/roze_2017.pdf) | Stephanie Merlino Barr | -  
+3 | Class 10 | [Becher_2021](https://github.com/THOMASELOVE/500-2021/blob/master/osia/claims/pdf/becher_2021.pdf) | Rod Nault | -
+3 | Class 11 | [Freedberg_2020](https://github.com/THOMASELOVE/500-2021/blob/master/osia/claims/pdf/freedberg_2020.pdf) | Jakob Woerner | -
+3 | Class 10 | [Preisser_2020](https://github.com/THOMASELOVE/500-2021/blob/master/osia/claims/pdf/preisser_2020.pdf) | Amr Mahran | -
+3 | Class 11 | [Retelsdorf_2011](https://github.com/THOMASELOVE/500-2021/blob/master/osia/claims/pdf/retelsdorf_2011.pdf) | Ritu Narahari | -
+3 | Class 10 | [Roze_2017](https://github.com/THOMASELOVE/500-2021/blob/master/osia/claims/pdf/roze_2017.pdf) | Stephanie Merlino Barr | -  
 
 1. Admon AJ et al. [Evaluating a Novel Clinical Trial Using Existing Observational Data](https://github.com/THOMASELOVE/500-2021/blob/master/osia/claims/pdf/admon_2019.pdf). *Annals Am Thorac Soc* 2019; 16(8): 998-1007. DOI: [10.1513/AnnalsATS.201903-241OC](https://doi.org/10.1513/AnnalsATS.201903-241OC) *PDF includes supplementary material*.
 2. Becher T et al. [Brown adipose tissue is associated with cardiometabolic health](https://github.com/THOMASELOVE/500-2021/blob/master/osia/claims/pdf/becher_2021.pdf). *Nature Medicine* 2021; 27: 58-65. DOI: [10.1038/s41591-020-1126-7](https://doi.org/10.1038/s41591-020-1126-7).
