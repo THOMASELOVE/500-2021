@@ -11,10 +11,19 @@ for everything | for deadlines | expectations | zoom information | for downloads
 - The Slides for Class 06 are [available in PDF](https://github.com/THOMASELOVE/500-2021/blob/master/classes/class06/500_2021_slides06.pdf), as well as in [R Markdown](https://github.com/THOMASELOVE/500-2021/blob/master/classes/class06/500_2021_slides06.Rmd).
     - The pre-recorded lecture slides are the first 55 in this deck. 
     - The deck continues with additional material that we'll discuss in our class session.
-- The Class 06 pre-recorded lecture will focus on what can be learned from Don Rubin's 2001 paper entitled [Using Propensity Scores to help Design Observational Studies: Application to the Tobacco Litigation](https://github.com/THOMASELOVE/500-2021/blob/master/sources/articles/Rubin%202001%20Tobacco%20Litigation%20article.pdf).
+- The Class 06 pre-recorded lecture focuses on what can be learned from Don Rubin's 2001 paper entitled [Using Propensity Scores to help Design Observational Studies: Application to the Tobacco Litigation](https://github.com/THOMASELOVE/500-2021/blob/master/sources/articles/Rubin%202001%20Tobacco%20Litigation%20article.pdf).
     - Please skim or read [the Rubin 2001 paper](https://github.com/THOMASELOVE/500-2021/blob/master/sources/articles/Rubin%202001%20Tobacco%20Litigation%20article.pdf) before you watch the Class 6 lecture.
     - We'll also be looking at the [Right Heart Catheterization example](https://github.com/THOMASELOVE/500-data/tree/master/rhc) in more detail, and this is the last of our R examples for this term.
 - As always, Dr. Love will be available for the 10 minutes before and 15 minutes after this session for informal "office hours". If you need help with anything, please email us!
+
+## Announcements
+
+1. There is an online causal inference seminar most weeks, hosted at Stanford. [Learn more and sign up here](https://sites.google.com/view/ocis/) if you're interested.
+2. We will discuss your project proposals today. Remember that the final version of your proposal is due 2021-03-23 at 9 PM.
+3. We will also discuss the OSIA plan for the rest of the semester today. A complete schedule will be posted.
+4. Next week's class will be held from 9:30 - 11 AM. 
+5. Prior to our next class, submit your essay for Rosenbaum Chapter 7 to our Shared Google Drive in the Chapter 7 (2021-03-18) subfolder of the Rosenbaum Essays folder. 
+    - An appropriate file name for your submission would be `YOUR_NAME-essay7.doc` for the Chapter 7 essay. Acceptable formats for the essay include PDF, word documents or Google Docs.
 
 ## Key References for Today
 
