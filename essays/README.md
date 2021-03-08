@@ -10,9 +10,9 @@ There are prompts here for Chapters 7-12, but Dr. Love reserves the right to rev
 
 Each of these essays is due on the day that the relevant chapter is to be discussed in class according to [the Course Calendar](https://thomaselove.github.io/500/calendar.html).
 
-- Please submit your essay to our shared Google Drive by 8 AM on the day we will discuss the chapter, so that all of your colleagues can see it.
-- You should come to the class prepared to share your essay with a few of your colleagues in a Zoom breakout session, and with the expectation that anyone in the class might read it and comment.
-- An appropriate file name for your submission would be `YOURNAME-essay7.doc` for the Chapter 7 essay, for instance. Acceptable formats for this essay include PDF, word documents or Google Docs.
+- Please submit your essay to our shared Google Drive by 8 AM on the day we will discuss the chapter, so that all of your colleagues can see it. Submit your essay to the appropriate subfolder (Chapter 7, 8, 9, 10, 11 or 12, as appropriate) subfolder of the Rosenbaum Essays folder on our Shared Drive. 
+- You will share your essay with a few of your colleagues in a Zoom breakout session, and so you should expect that anyone in the class might read it and comment.
+- An appropriate file name for your submission would be `YOUR_NAME-essay7.doc` for the Chapter 7 essay, for instance. Acceptable formats for this essay include PDF, word documents or Google Docs.
 - For help with anything involved in the class, [contact us](https://thomaselove.github.io/500/contact.html).
 
 ## Prompt for Chapter 7 (Elaborate Theories)
