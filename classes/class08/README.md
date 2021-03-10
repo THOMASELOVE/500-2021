@@ -37,3 +37,18 @@ Order | Session | Paper | First Reader | Second Reader |
 4. Kwak M et al. Bariatric surgery is associated with reduction in non-alcoholic steatohepatitis and hepatocellular carcinoma: A propensity matched analysis. *Amer J Surgery* 2020; 219: 504-507. DOI: [10.1016/j.amjsurg.2019.09.006](https://doi.org/10.1016/j.amjsurg.2019.09.006) *PDF includes supplementary material*.
 5. Montano MA et al. Differences in sexually transmitted infection risk comparing preexposure prophylaxis users and propensity score matched historical controls in a clinic setting. *AIDS* 2019; 33: 1773-1780. DOI: [10.1097/QAD.0000000000002281](https://doi.org/10.1097/QAD.0000000000002281) *PDF includes supplementary material*.
 
+## OSIA Presentations for Next Time (Class 09: 2021-04-01)
+
+Those of you presenting next week as First Reader or Second Reader, please remember to make the deadlines [posted in the Course Calendar](https://thomaselove.github.io/500/calendar.html), and review the appropriate material below well in advance of those deadlines so that things go smoothly.
+
+- [the Requirements and Submission details for First Reviewer](https://github.com/THOMASELOVE/500-2021/blob/master/osia/README.md#your-presentation-as-first-reader) 
+- or [the Second Reviewer Requirements and Submission details](https://github.com/THOMASELOVE/500-2021/blob/master/osia/README.md#second-reviewer)
+
+### Next Week's Scheduled Presentations: Class 09 (2021-04-01)
+
+Order | Session | Paper | First Reader | Second Reader | 
+--: | :----------: | :-------------: | :----------------: | :-----------:
+6 | 04-01 | Branigan (2020) | Anastasia Vassiliou | Carolyn Goldschmidt
+7 | 04-01 | Eshleman (2014) | David Gletsu | Rod Nault
+8 | 04-01 | Waibel (2018) | Long Vu | Jakob Woerner
+
