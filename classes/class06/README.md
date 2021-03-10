@@ -29,6 +29,7 @@ for everything | for deadlines | expectations | zoom information | for downloads
 6. You may be interested in [A clinician's primer on epidemiology for COVID-19](https://www.cell.com/med/fulltext/S2666-6340(21)00068-4).
     - from the abstract: "Here, we provide a brief primer on key concepts and terms related to COVID-19 epidemiology in the hopes that this information will help provide clinicians with a starting point for evaluating the emerging COVID-19 literature."
 7. You might also be interested in a paper we [recently published](https://link.springer.com/article/10.1007/s11606-020-06440-7) on Adoption of Health System Innovations: Evidence of Urban-Rural Disparities from the Ohio Primary Care Marketplace, for the *Journal of General Internal Medicine*. The paper was led by JT Tanenbaum, who completed his MD/PhD at CWRU and is now in his first year of post-graduate work in orthopaedic surgery at Northwestern University.
+8. As of yesterday, I've upgraded to R version 4.0.4. If you're running R 4.0.0 or later, you're probably going to be OK, but you might want to consider an upgrade soon. Installation procedures [are summarized here](https://thomaselove.github.io/500/software_install.html).
 
 ## Key References for Today
 
