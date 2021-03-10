@@ -22,7 +22,7 @@ for everything | for deadlines | expectations | zoom information | for downloads
 3. We will also discuss the [OSIA plan for the rest of the semester](https://github.com/THOMASELOVE/500-2021/blob/master/osia/schedule.md) today. The complete schedule and links to materials can be found on the OSIA schedule page.
     - Please review [the instructions](https://github.com/THOMASELOVE/500-2021/blob/master/osia) for updated details on what you need to do as [First Reader](https://github.com/THOMASELOVE/500-2021/tree/master/osia#your-presentation-as-first-reader) and as [Second Reader](https://github.com/THOMASELOVE/500-2021/tree/master/osia#second-reviewer).
     - All deadlines for OSIA are posted to the [Course Calendar](https://thomaselove.github.io/500/calendar.html).
-4. No later than 8 AM on 2021-03-18, please remember to submit your [essay for Rosenbaum Chapter 7](https://github.com/THOMASELOVE/500-2021/tree/master/essays) to our Shared Google Drive in the Chapter 7 (2021-03-18) subfolder of the Rosenbaum Essays folder. 
+4. No later than 8 AM on 2021-03-18, please remember to submit your [essay for Rosenbaum Chapter 7](https://github.com/THOMASELOVE/500-2021/tree/master/essays) to our Shared Google Drive in the Chapter 7 (2021-03-18) subfolder of the **Rosenbaum Essays** folder. 
     - An appropriate file name for your submission would be `YOUR_NAME-essay7.doc` for the Chapter 7 essay. 
     - Acceptable formats for the essay include PDF, Word documents or Google Docs.
 5. We will post the [Lab 3 Answer Sketch](https://github.com/THOMASELOVE/500-2021/tree/master/labs/lab3) by tomorrow morning. Please submit the Lab today if you haven't already done so.
