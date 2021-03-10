@@ -24,7 +24,7 @@ for everything | for deadlines | expectations | zoom information | for downloads
 
 ## OSIA Presentations for Next Time (Class 08: 2021-03-25)
 
-Those of you presenting next week as First Reader or Second Reader, please remember to make the deadlines [posted in the Course Calendar](https://thomaselove.github.io/500/calendar.html), and review the appropriate material below well in advance of that deadline so that things go smoothly.
+Those of you presenting next week as First Reader or Second Reader, please remember to make the deadlines [posted in the Course Calendar](https://thomaselove.github.io/500/calendar.html), and review the appropriate material below well in advance of that deadline so that things go smoothly. Additional details and links to materials are available on [the OSIA schedule page](https://github.com/THOMASELOVE/500-2021/blob/master/osia/schedule.md).
 
 - [the Requirements and Submission details for First Reviewer](https://github.com/THOMASELOVE/500-2021/blob/master/osia/README.md#your-presentation-as-first-reader) 
 - or [the Second Reviewer Requirements and Submission details](https://github.com/THOMASELOVE/500-2021/blob/master/osia/README.md#second-reviewer)
