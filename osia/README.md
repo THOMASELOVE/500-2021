@@ -5,6 +5,10 @@ This page houses information about **Observational Studies in Action** work for 
 - For help with anything involved in the class, [contact us](https://thomaselove.github.io/500/contact.html).
 - Deadlines for all assignments in 500 are provided in the [Course Calendar](https://thomaselove.github.io/500/calendar.html).
 
+## The Schedule
+
+Visit the [OSIA Schedule page](https://github.com/THOMASELOVE/500-2021/blob/master/osia/schedule.md) for links to all materials and complete details on who's presenting when.
+
 ## The Assignment
 
 1. You will be responsible for presenting the methods and results of an observational study from the literature that uses propensity score methods.
