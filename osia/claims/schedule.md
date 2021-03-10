@@ -1,4 +1,4 @@
-# Schedule and Materials for Observational Studies in Action Presentations
+# Schedule for Observational Studies in Action Presentations
 
 - [Abstracts for all 14 studies are provided here](https://github.com/THOMASELOVE/500-2021/blob/master/osia/claims/pdf/abstracts_osia_2021.pdf). 
 
