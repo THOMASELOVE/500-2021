@@ -22,3 +22,17 @@ for everything | for deadlines | expectations | zoom information | for downloads
 
 1. Next week's class (Class 08, on 2021-03-25) will consist of our first five OSIA presentations, and will be held from **8:30 - 11 AM**. Note the earlier starting time. There will be no pre-recorded lecture for Class 08.
 
+## OSIA Presentations for Next Time (Class 08: 2021-03-25)
+
+Those of you presenting next week as First Reader or Second Reader, please remember to make the deadlines [posted in the Course Calendar](https://thomaselove.github.io/500/calendar.html), and review the appropriate material below well in advance of that deadline so that things go smoothly.
+
+- [the Requirements and Submission details for First Reviewer](https://github.com/THOMASELOVE/500-2021/blob/master/osia/README.md#your-presentation-as-first-reader) 
+- or [the Second Reviewer Requirements and Submission details](https://github.com/THOMASELOVE/500-2021/blob/master/osia/README.md#second-reviewer)
+
+Order | Session | Paper | First Reader | Second Reader | 
+--: | :----------: | :-------------: | :----------------: | :-----------:
+1 | 03-25 | Naegelin (2019) | Carolyn Goldschmidt | Matt Siuba 
+2 | 03-25 | McIsaac (2017) | Caitlyn Grubbs | Anastasia Vassiliou
+3 | 03-25 | Josephat (2015) | Pamela Robinson | Ritu Narahari
+4 | 03-25 | Kwak (2020) | Julia Payne | Amr Mahran
+5 | 03-25 | Montano (2019) | Lindsay Petrenchik | Stephanie Merlino Barr
