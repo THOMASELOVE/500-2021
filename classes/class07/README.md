@@ -20,4 +20,5 @@ for everything | for deadlines | expectations | zoom information | for downloads
 
 ## Announcements, etc.
 
-To come.
+1. Next week's class (Class 08, on 2021-03-25) will consist of our first five OSIA presentations, and will be held from **8:30 - 11 AM**. Note the earlier starting time. There will be no pre-recorded lecture for Class 08.
+
