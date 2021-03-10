@@ -30,8 +30,8 @@ An appropriate study will
 Everyone will present a different study. To submit a study for approval, send a PDF of the study itself along with any appendix materials to Dr. Love in an **email** entitled "OSIA proposal" and include a brief (100 words is sufficient, in the body of your email) description of why this particular study is of interest to you. Please be sure to specify that you meet all of the standards listed above. The deadline for submitting your claim is found on the [Course Calendar](https://thomaselove.github.io/500/calendar.html), but we hope you will submit much earlier.
 
 - If you select a study that is unsuitable, Dr. Love will let you know as soon as he can.
-- If you select an acceptable study and you are the first to "claim" it, it's yours. Once a study is claimed, Dr. Love [will post it on the claims page](https://github.com/THOMASELOVE/500-2021/tree/master/osia/claims). If you select a study that someone else has beaten you to, you will have to submit an alternative.
-- Once all students have successfully selected a study, Dr. Love will schedule the presentations into the OSIA days listed in the [Course Calendar](https://thomaselove.github.io/500/calendar.html).
+- If you select an acceptable study and you are the first to "claim" it, it's yours. Once a study is claimed, Dr. Love will post it on the claims page. If you select a study that someone else has beaten you to, you will have to submit an alternative.
+- Once all students have successfully selected a study, Dr. Love will [schedule the presentations](https://github.com/THOMASELOVE/500-2021/blob/master/osia/schedule.md) into the OSIA days listed in the [Course Calendar](https://thomaselove.github.io/500/calendar.html).
 
 ## Your Presentation
 
@@ -46,13 +46,14 @@ I encourage you to think hard about what might be most useful to us in this cont
 
 For each OSIA study, a "second reviewer" will be assigned according to the date on the [Course Calendar](https://thomaselove.github.io/500/calendar.html) once all studies are established (so that everyone does this job once.) 
 
-- The "second reviewer" for each study will provide 3-5 minutes of commentary on the study after the main reviewer's presentation. You are expected to present 2-4 slides as second reviewer. 
+- Second Reviewer Assignments are now posted to the [OSIA schedule page](https://github.com/THOMASELOVE/500-2021/blob/master/osia/schedule.md).
+- The Second Reviewer for each study will provide 3-5 minutes of commentary on the study after the main reviewer's presentation. You are expected to present 2-4 slides as second reviewer. 
 
 ## Presentation Submission Details (subject to change)
 
 ### for the Primary Reviewer
 
-For the study you have claimed, you will submit final versions of the slides for your class presentation (20 slides should be a reasonable maximum) to our **Shared Google Drive** by 3 PM on the day **before** your presentation, as indicated on the [Course Calendar](https://thomaselove.github.io/500/calendar.html). The file name should include your name, perhaps with the form YOURNAME_OSIA_rev1. Powerpoint, PDF or Google Slides documents are fine - if you want to use some other approach to develop slides, please ensure that we'll be able to view them through Google Drive.
+For the study you have claimed, you will submit final versions of the slides for your class presentation (20 slides should be a reasonable maximum) to our **Shared Google Drive** by 3 PM on the day **before** your presentation, as indicated on the [Course Calendar](https://thomaselove.github.io/500/calendar.html) and on the [OSIA Schedule page](https://github.com/THOMASELOVE/500-2021/blob/master/osia/schedule.md). The file name should include your name, perhaps with the form YOURNAME_OSIA_rev1. Powerpoint, PDF or Google Slides documents are fine - if you want to use some other approach to develop slides, please ensure that we'll be able to view them through Google Drive. Please insert your OSIA presentation in the appropriate folder.
 
 - This early submission will allow Dr. Love, the second reviewer of your article, and anyone else in the class to review your slides in advance, and will allow you to get a good night's sleep before your presentation.
 
@@ -62,5 +63,5 @@ For the study on which you serve as second reviewer, you will submit final versi
 
 ## Audience Role
 
-For each OSIA study, everyone will read the abstracts in advance, so that we can have some understanding of what's involved and contribute to the discussion. The papers will be [posted to the Claims page](https://github.com/THOMASELOVE/500-2021/tree/master/osia/claims) as they are approved by Dr. Love, and the Shared Google Drive will eventually contain all of the presentations.
+For each OSIA study, everyone will read the abstracts in advance, so that we can have some understanding of what's involved and contribute to the discussion. Key materials are already posted to the [OSIA Schedule page](https://github.com/THOMASELOVE/500-2021/blob/master/osia/schedule.md) and our Shared Google Drive will eventually contain all of the OSIA presentations.
 
