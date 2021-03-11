@@ -18,15 +18,17 @@ for everything | for deadlines | expectations | zoom information | for downloads
 ## Announcements about 500
 
 1. Next week's class (Class 07, on 2021-03-18) will be held from **9:30 - 11 AM**. 
-2. We will discuss your project proposals today. Remember that the [final version of your proposal](https://github.com/THOMASELOVE/500-2021/blob/master/project/01_proposal.md) is due 2021-03-23 at 9 PM.
-3. We will also discuss the [OSIA plan for the rest of the semester](https://github.com/THOMASELOVE/500-2021/blob/master/osia/schedule.md) today. The complete schedule and links to materials can be found on the OSIA schedule page.
+2. We will discuss your project proposals today. 
+    - Comments are now available (for most proposals) on our Shared Google Drive in the Project Proposals folder.
+    - Remember that the [final version of your proposal](https://github.com/THOMASELOVE/500-2021/blob/master/project/01_proposal.md) is due 2021-03-23 at 9 PM.
+4. We will also discuss the [OSIA plan for the rest of the semester](https://github.com/THOMASELOVE/500-2021/blob/master/osia/schedule.md) today. The complete schedule and links to materials can be found on the [OSIA schedule page](https://github.com/THOMASELOVE/500-2021/blob/master/osia/schedule.md).
     - Please review [the instructions](https://github.com/THOMASELOVE/500-2021/blob/master/osia) for updated details on what you need to do as [First Reader](https://github.com/THOMASELOVE/500-2021/tree/master/osia#your-presentation-as-first-reader) and as [Second Reader](https://github.com/THOMASELOVE/500-2021/tree/master/osia#second-reviewer).
     - All deadlines for OSIA are posted to the [Course Calendar](https://thomaselove.github.io/500/calendar.html).
-4. No later than 8 AM on 2021-03-18, please remember to submit your [essay for Rosenbaum Chapter 7](https://github.com/THOMASELOVE/500-2021/tree/master/essays) to our Shared Google Drive in the Chapter 7 (2021-03-18) subfolder of the **Rosenbaum Essays** folder. 
+5. No later than 8 AM on 2021-03-18, please remember to submit your [essay for Rosenbaum Chapter 7](https://github.com/THOMASELOVE/500-2021/tree/master/essays) to our Shared Google Drive in the Chapter 7 (2021-03-18) subfolder of the **Rosenbaum Essays** folder. 
     - An appropriate file name for your submission would be `YOUR_NAME-essay7.doc` for the Chapter 7 essay. 
     - Acceptable formats for the essay include PDF, Word documents or Google Docs.
-5. We will post the [Lab 3 Answer Sketch](https://github.com/THOMASELOVE/500-2021/tree/master/labs/lab3) by tomorrow morning. Please submit the Lab today if you haven't already done so.
-6. As of yesterday, I've upgraded to R version 4.0.4. If you're running R 4.0.0 or later, you're probably going to be OK, but you might want to consider an upgrade soon. Installation procedures [are summarized here](https://thomaselove.github.io/500/software_install.html).
+6. We will post the [Lab 3 Answer Sketch](https://github.com/THOMASELOVE/500-2021/tree/master/labs/lab3) by tomorrow morning. Please submit the Lab today if you haven't already done so.
+7. As of yesterday, I've upgraded to R version 4.0.4. If you're running R 4.0.0 or later, you're probably going to be OK, but you might want to consider an upgrade soon. Installation procedures [are summarized here](https://thomaselove.github.io/500/software_install.html).
 
 ## Other Things
 
