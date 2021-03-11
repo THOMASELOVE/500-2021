@@ -7,7 +7,7 @@ Order | Session | Paper | First Reader | Second Reader |
 1 | 03-25 | Naegelin (2019) | Carolyn Goldschmidt | Matt Siuba 
 2 | 03-25 | McIsaac (2017) | Caitlyn Grubbs | Anastasia Vassiliou
 3 | 03-25 | Josephat (2015) | Pamela Robinson | Ritu Narahari
-4 | 03-25 | Kwak (2020) | Julia Payne | Amr Mahran
+4 | 03-25 | Kwak (2020) | Julia Payne | Wyatt Bensken / TEL
 5 | 03-25 | Montano (2019) | Lindsay Petrenchik | Stephanie Merlino Barr
 
 ### Class 08 Materials
